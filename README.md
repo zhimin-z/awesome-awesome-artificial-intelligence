@@ -16,6 +16,7 @@ Also, a listed repository should be deprecated if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome AI-ML-DL](https://github.com/neomatrix369/awesome-ai-ml-dl) | A curated list of awesome resources of artificial intelligence, machine learning and deep learning. | ![GitHub stars](https://img.shields.io/github/stars/neomatrix369/awesome-ai-ml-dl?style=social) |
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome machine learning frameworks, libraries and software. | ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) |
 | [Awesome Machine Learning](https://github.com/onmyway133/awesome-machine-learning) | A curated list of awesome machine learning resources, preferably CoreML. | ![GitHub stars](https://img.shields.io/github/stars/onmyway133/awesome-machine-learning?style=social) |
 | [Awesome Open Data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) | A curated list of awesome tools for data-centric AI on unstructured data. | ![GitHub stars](https://img.shields.io/github/stars/Renumics/awesome-open-data-centric-ai?style=social) |
@@ -45,6 +46,7 @@ Also, a listed repository should be deprecated if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A curated list of awesome research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
 | [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | A curated list of awesome machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
 
 # Modality
