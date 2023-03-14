@@ -157,7 +157,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Transformers](https://github.com/abacaj/awesome-transformers) | A curated list of awesome transformer models. | ![GitHub stars](https://img.shields.io/github/stars/abacaj/awesome-transformers?style=social) |
 | [Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | A curated list of awesome vision transformer and attention, including papers, codes, and related websites. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
 | [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) | A curated list of awesome resources on applications of transformers in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/fahadshamshad/awesome-transformers-in-medical-imaging?style=social) |
-| [Awesome Transformer NLP](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | A curated list of awesome NLP resources focused on Transformer network, attention mechanism, etc.. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
+| [Awesome Transformer NLP](https://github.com/cedrickchee/awesome-transformer-nlp) | A curated list of awesome NLP resources focused on Transformer network, attention mechanism, etc.. | ![GitHub stars](https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social) |
 | [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) | A curated list of awesome research about transformer with vision. | ![GitHub stars](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social) |
 
 ## Miscellaneous
@@ -173,8 +173,13 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
+| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, especially ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
+
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
