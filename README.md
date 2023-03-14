@@ -22,6 +22,7 @@ Also, a listed repository should be deprecated if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure machine learning productionization. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) |
+| [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) | A curated list of research in machine learning systems. | ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social) |
 
 # Explainability
 
