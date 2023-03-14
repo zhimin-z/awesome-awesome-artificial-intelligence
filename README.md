@@ -25,27 +25,69 @@ Also, a listed repository should be excluded if:
 | [Awesome Open Data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) | A curated list of awesome tools for data-centric AI on unstructured data. | ![GitHub stars](https://img.shields.io/github/stars/Renumics/awesome-open-data-centric-ai?style=social) |
 | [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas) | A curated list of awesome practical deep learning and machine learning project ideas. | ![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas?style=social) |
 
-# Engineering
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome libraries that will help you deploy, monitor, version, scale and secure machine learning productionization. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) |
-| [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) | A curated list of awesome research in machine learning systems. | ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social) |
-
-# Reinforcement Learning
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl) | A curated list of awesome deep reinforcement learning resources. | ![GitHub stars](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social) |
-
-# AutoML
+## AutoML
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) | A curated list of awesome automated deep learning related resources. | ![GitHub stars](https://img.shields.io/github/stars/D-X-Y/Awesome-AutoDL?style=social) |
 | [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers) | A curated list of awesome automated machine learning papers, articles, tutorials, slides and projects. | ![GitHub stars](https://img.shields.io/github/stars/hibayesian/awesome-automl-papers?style=social) |
 
-# Security
+## Compilation
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers) | A curated list of awesome compiler projects and papers for tensor computation and deep learning. | ![GitHub stars](https://img.shields.io/github/stars/merrymercy/awesome-tensor-compilers?style=social) |
+
+## Compression
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) | A curated list of awesome neural network pruning resources. | ![GitHub stars](https://img.shields.io/github/stars/he-y/Awesome-Pruning?style=social) |
+
+## Edge
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome EMDL](https://github.com/csarron/awesome-emdl) | A curated list of awesome deep learning research resources on embedded and mobile. | ![GitHub stars](https://img.shields.io/github/stars/csarron/awesome-emdl?style=social) |
+
+## System & Engineering
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome MLOps](https://github.com/visenger/awesome-mlops) | A curated list of awesome MLOps resources. | ![GitHub stars](https://img.shields.io/github/stars/visenger/awesome-mlops?style=social) |
+| [Awesome MLOps](https://github.com/kelvins/awesome-mlops) | A curated list of awesome MLOps tools. | ![GitHub stars](https://img.shields.io/github/stars/kelvins/awesome-mlops?style=social) |
+| [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome libraries that will help you deploy, monitor, version, scale and secure machine learning productionization. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) |
+| [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) | A curated list of awesome research in machine learning systems. | ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social) |
+
+## Explainability & Interpretability
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A curated list of awesome research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
+| [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | A curated list of awesome machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
+
+## Modality
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml) | A curated list of awesome research topics in multimodal machine learning. | ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml?style=social) |
+
+## Prompt
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
+
+## Reinforcement Learning
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl) | A curated list of awesome deep reinforcement learning resources. | ![GitHub stars](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social) |
+| [Awesome Game AI](https://github.com/datamllab/awesome-game-ai) | A curated list of awesome resources of multi-agent reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/datamllab/awesome-game-ai?style=social) |
+| [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl) | A curated list of awesome research for offline reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/hanjuku-kaso/awesome-offline-rl?style=social) |
+| [Awesome RL](https://github.com/aikorea/awesome-rl) | A curated list of awesome resources dedicated to reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/aikorea/awesome-rl?style=social) |
+
+## Privacy & Security
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
@@ -53,34 +95,51 @@ Also, a listed repository should be excluded if:
 | [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | A curated list of awesome resources releated to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | A curated list of awesome federated learning, including research papers, books, codes, tutorials, videos and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
 
-# Compilation
+# Network Architectures
+
+## Generative Adversarial Network
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers) | A curated list of awesome compiler projects and papers for tensor computation and deep learning. | ![GitHub stars](https://img.shields.io/github/stars/merrymercy/awesome-tensor-compilers?style=social) |
+| [Awesome GAN](https://github.com/nightrome/really-awesome-gan) | A curated list of awesome resources for generative adversarial network. | ![GitHub stars](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social) |
 
-# Explainability
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A curated list of awesome research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
-| [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | A curated list of awesome machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
-
-# Modality
+## Graph Neural Network
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml) | A curated list of awesome research topics in multimodal machine learning. | ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml?style=social) |
+| [Awesome Graph Neural Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks) | A curated list of awesome resources related with graph neural network. | ![GitHub stars](https://img.shields.io/github/stars/GRAND-Lab/Awesome-Graph-Neural-Networks?style=social) |
+| [Awesome Self-supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) | A curated list of awesome papers on the self-supervised learning on graph neural networks. | ![GitHub stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?style=social) |
+
+## Transformer
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) | A curated list of awesome papers for detection and segmentation with transformer. | ![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/awesome-detection-transformer?style=social) |
+| [Awesome Transformers](https://github.com/abacaj/awesome-transformers) | A curated list of awesome transformer models. | ![GitHub stars](https://img.shields.io/github/stars/abacaj/awesome-transformers?style=social) |
+| [Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | A curated list of awesome vision transformer and attention, including papers, codes, and related websites. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
+| [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) | A curated list of awesome resources on applications of transformers in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/fahadshamshad/awesome-transformers-in-medical-imaging?style=social) |
+| [Awesome Transformer NLP](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | A curated list of awesome machine learning resources for natural language processing. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
+| [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) | A curated list of awesome research about transformer with vision. | ![GitHub stars](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social) |
+
+## Others
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Equivariant Network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) | A curated list of awesome papers for equivariant neural network. | ![GitHub stars](https://img.shields.io/github/stars/Chen-Cai-OSU/awesome-equivariant-network?style=social) |
+| [wesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | A curated list of awesome resources related to the geometry of representations in the brain, deep networks, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/neurreps/awesome-neural-geometry?style=social) |
 
 # Domain-specific
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
+| [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
+| [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
 | [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co) | A curated list of awesome resources that utilize machine learning technologies to solve combinatorial optimization problems. | ![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
+| [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) | A curated list of awesome resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods. | ![GitHub stars](https://img.shields.io/github/stars/Zymrael/awesome-neural-ode?style=social) |
 
 # Language-specific
 
