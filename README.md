@@ -127,6 +127,8 @@ Also, a listed repository should be excluded if:
 
 ## Computer Vision
 
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
 | [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
 | [Awesome AI Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) | A curated list of awesome tools, ideas, models, and helpers for the prompt designer playing with AI art and image synthesis. | ![GitHub stars](https://img.shields.io/github/stars/altryne/awesome-ai-art-image-synthesis?style=social) |
