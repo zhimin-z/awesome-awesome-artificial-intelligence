@@ -11,7 +11,7 @@ Also, a listed repository should be excluded if:
 * It is a public archive.
 * It is not written in English.
 * It is not actively maintained (> 1 year).
-* It is not popular enough (< 450 stars).
+* It is not popular enough (< 400 stars).
 
 # General
 
@@ -100,7 +100,8 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl) | A curated list of awesome deep reinforcement learning resources. | ![GitHub stars](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social) |
+| [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | A curated list of awesome projects, tools, artworks, and models on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/filipecalegario/awesome-generative-ai?style=social) |
+| [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
 
 ## Reinforcement Learning
 
@@ -117,7 +118,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Contrastive Self-supervised Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning) | A curated list of awesome research on contrastive self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/asheeshcric/awesome-contrastive-self-supervised-learning?style=social) |
 | [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) | A curated list of awesome self-supervised graph representation learning resources. | ![GitHub stars](https://img.shields.io/github/stars/LirongWu/awesome-graph-self-supervised-learning?style=social) |
-| [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) | A curated list of awesome resources on self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social) |
+| [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) | A curated list of awesome resources on self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning?style=social) |
 | [Awesome Self-supervised Papers](https://github.com/zhimin-z/Awesome-Self-Supervised-Papers) | A curated list of awesome papers about self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/zhimin-z/Awesome-Self-Supervised-Papers?style=social) |
 | [Awesome Semi-supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning) | A curated list of awesome resources on semi-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social) |
 
