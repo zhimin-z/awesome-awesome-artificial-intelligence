@@ -13,8 +13,8 @@ Also, a listed repository should be excluded if:
 
 * It is a public archive.
 * It is not written in English.
-* It is not actively maintained (> 1 year).
 * It is not popular enough (< 400 stars).
+* It is not actively maintained (> 1 year).
 
 # General
 
