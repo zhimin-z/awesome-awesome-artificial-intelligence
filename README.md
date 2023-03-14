@@ -16,6 +16,8 @@ Also, a listed repository should be excluded if:
 * It is not popular enough (< 400 stars).
 * It is not actively maintained (> 1 year).
 
+Due to the static nature of markdown format, we only label any awesome list as an exclusive topic.
+
 # General
 
 | Name | Description | Popularity |
