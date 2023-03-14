@@ -3,9 +3,9 @@
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
 </div>
 
-[Awesome Awesome Machine Learning](https://www.wikiwand.com/en/Online_machine_learning) is a curated list of awesome curated lists of many topics closely related to machine learning.
+[Awesome Awesome Machine Learning](https://www.wikiwand.com/en/Online_machine_learning) is a hand-cradfted curated list of awesome curated lists of many topics closely related to machine learning.
 
-_If you want to contribute to this list (please do), send me a pull request or raise an issue accordingly._
+_If you want to contribute to this list (please do), propose a pull request or raise an issue if there is any uncertainty._
 Also, a listed repository should be excluded if:
 
 * It is a public archive.
