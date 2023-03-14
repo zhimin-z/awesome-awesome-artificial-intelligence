@@ -11,7 +11,7 @@ Also, a listed repository should be excluded if:
 * It is a public archive.
 * It is not written in English.
 * It is not actively maintained (> 1 year).
-* It is not popular enough (< 500 stars).
+* It is not popular enough (< 400 stars).
 
 # General
 
@@ -78,6 +78,16 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
 
+## Privacy & Security
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) | A curated list of awesome blockchain projects for artificial intelligence and machine learning. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
+| [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | A curated list of awesome resources releated to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
+| [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | A curated list of awesome federated learning, including research papers, books, codes, tutorials, videos and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
+
+# Paradigm
+
 ## Reinforcement Learning
 
 | Name | Description | Popularity |
@@ -87,13 +97,13 @@ Also, a listed repository should be excluded if:
 | [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl) | A curated list of awesome research for offline reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/hanjuku-kaso/awesome-offline-rl?style=social) |
 | [Awesome RL](https://github.com/aikorea/awesome-rl) | A curated list of awesome resources dedicated to reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/aikorea/awesome-rl?style=social) |
 
-## Privacy & Security
+## Weakly-Supervised Learning
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) | A curated list of awesome blockchain projects for artificial intelligence and machine learning. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
-| [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | A curated list of awesome resources releated to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
-| [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | A curated list of awesome federated learning, including research papers, books, codes, tutorials, videos and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
+| [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) | A curated list of awesome self-supervised graph representation learning resources. | ![GitHub stars](https://img.shields.io/github/stars/LirongWu/awesome-graph-self-supervised-learning?style=social) |
+| [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) | A curated list of awesome resources on self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social) |
+| [Awesome Semi-supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning) | A curated list of awesome resources on semi-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social) |
 
 # Network Architectures
 
