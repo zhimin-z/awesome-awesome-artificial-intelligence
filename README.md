@@ -18,12 +18,13 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI-ML-DL](https://github.com/neomatrix369/awesome-ai-ml-dl) | A curated list of awesome resources of artificial intelligence, machine learning and deep learning. | ![GitHub stars](https://img.shields.io/github/stars/neomatrix369/awesome-ai-ml-dl?style=social) |
+| [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | A curated list of awesome artificial intelligence courses, books, video lectures and papers. | ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=social) |
 | [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | A curated list of awesome deep learning tutorials, projects and communities. | ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) |
 | [Awesome Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) | A curated list of awesome recent papers regarding deep learning and deep reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/endymecy/awesome-deeplearning-resources?style=social) |
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome machine learning frameworks, libraries and software. | ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) |
 | [Awesome Machine Learning](https://github.com/onmyway133/awesome-machine-learning) | A curated list of awesome machine learning resources, preferably CoreML. | ![GitHub stars](https://img.shields.io/github/stars/onmyway133/awesome-machine-learning?style=social) |
 | [Awesome Open Data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) | A curated list of awesome tools for data-centric AI on unstructured data. | ![GitHub stars](https://img.shields.io/github/stars/Renumics/awesome-open-data-centric-ai?style=social) |
-| [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas) | A curated list of awesome practical deep learning and machine learning project ideas. | ![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas?style=social) |
+| [Awesome Project Ideas](https://github.com/NirantK/awesome-project-ideas) | A curated list of awesome practical deep learning and machine learning project ideas. | ![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas?style=social) |
 
 ## AutoML
 
@@ -50,19 +51,17 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome EMDL](https://github.com/csarron/awesome-emdl) | A curated list of awesome deep learning research resources on embedded and mobile. | ![GitHub stars](https://img.shields.io/github/stars/csarron/awesome-emdl?style=social) |
 
-## System & Engineering
+## Ethics & Regulation
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome MLOps](https://github.com/visenger/awesome-mlops) | A curated list of awesome MLOps resources. | ![GitHub stars](https://img.shields.io/github/stars/visenger/awesome-mlops?style=social) |
-| [Awesome MLOps](https://github.com/kelvins/awesome-mlops) | A curated list of awesome MLOps tools. | ![GitHub stars](https://img.shields.io/github/stars/kelvins/awesome-mlops?style=social) |
-| [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome libraries that will help you deploy, monitor, version, scale and secure machine learning productionization. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) |
-| [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) | A curated list of awesome research in machine learning systems. | ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social) |
+| [Awesome AI Guidelines](https://github.com/steven2358/awesome-blockchain-ai) | A curated list of awesome artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
 
 ## Explainability & Interpretability
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) | A curated list of awesome research materials on explainable AI. | ![GitHub stars](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?style=social) |
 | [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A curated list of awesome research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
 | [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | A curated list of awesome machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
 
@@ -86,6 +85,15 @@ Also, a listed repository should be excluded if:
 | [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | A curated list of awesome resources releated to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | A curated list of awesome federated learning, including research papers, books, codes, tutorials, videos and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
 
+## System & Engineering
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome MLOps](https://github.com/visenger/awesome-mlops) | A curated list of awesome MLOps resources. | ![GitHub stars](https://img.shields.io/github/stars/visenger/awesome-mlops?style=social) |
+| [Awesome MLOps](https://github.com/kelvins/awesome-mlops) | A curated list of awesome MLOps tools. | ![GitHub stars](https://img.shields.io/github/stars/kelvins/awesome-mlops?style=social) |
+| [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome libraries that will help you deploy, monitor, version, scale and secure machine learning productionization. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) |
+| [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) | A curated list of awesome research in machine learning systems. | ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social) |
+
 # Paradigm
 
 ## Reinforcement Learning
@@ -101,11 +109,19 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome Contrastive Self-supervised Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning) | A curated list of awesome research on contrastive self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/asheeshcric/awesome-contrastive-self-supervised-learning?style=social) |
 | [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) | A curated list of awesome self-supervised graph representation learning resources. | ![GitHub stars](https://img.shields.io/github/stars/LirongWu/awesome-graph-self-supervised-learning?style=social) |
 | [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) | A curated list of awesome resources on self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social) |
+| [Awesome Self-supervised Papers](https://github.com/zhimin-z/Awesome-Self-Supervised-Papers) | A curated list of awesome papers about self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/zhimin-z/Awesome-Self-Supervised-Papers?style=social) |
 | [Awesome Semi-supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning) | A curated list of awesome resources on semi-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social) |
 
 # Network Architectures
+
+## Diffusion Model
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) | A curated list of awesome resources for generative adversarial network. | ![GitHub stars](https://img.shields.io/github/stars/awesome-stable-diffusion/awesome-stable-diffusion?style=social) |
 
 ## Generative Adversarial Network
 
@@ -147,6 +163,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
+| [Awesome AI Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) | A curated list of awesome tools, ideas, models, and helpers for the prompt designer playing with AI art and image synthesis. | ![GitHub stars](https://img.shields.io/github/stars/altryne/awesome-ai-art-image-synthesis?style=social) |
 | [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co) | A curated list of awesome resources that utilize machine learning technologies to solve combinatorial optimization problems. | ![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
 | [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) | A curated list of awesome resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods. | ![GitHub stars](https://img.shields.io/github/stars/Zymrael/awesome-neural-ode?style=social) |
@@ -163,3 +180,9 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) | A curated list of awesome free machine learning and AI courses with video lectures. | ![GitHub stars](https://img.shields.io/github/stars/luspr/awesome-ml-courses?style=social) |
 | [Awesome Summer School in Machine Learning](https://github.com/sshkhr/awesome-mlss) | A curated list of awesome summer schools in machine learning + related fields across the globe. | ![GitHub stars](https://img.shields.io/github/stars/sshkhr/awesome-mlss?style=social) |
+
+# Career
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome AI Residency](https://github.com/dangkhoasdc/awesome-ai-residency) | A curated list of awesome AI residency programs. | ![GitHub stars](https://img.shields.io/github/stars/dangkhoasdc/awesome-ai-residency?style=social) |
