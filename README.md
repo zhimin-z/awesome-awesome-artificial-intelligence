@@ -29,6 +29,8 @@ Also, a listed repository should be excluded if:
 | [Awesome Open Data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) | A curated list of awesome tools for data-centric AI on unstructured data. | ![GitHub stars](https://img.shields.io/github/stars/Renumics/awesome-open-data-centric-ai?style=social) |
 | [Awesome Project Ideas](https://github.com/NirantK/awesome-project-ideas) | A curated list of awesome practical deep learning and machine learning project ideas. | ![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas?style=social) |
 
+# Feature-specific
+
 ## AutoML
 
 | Name | Description | Popularity |
@@ -97,7 +99,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome libraries that will help you deploy, monitor, version, scale and secure machine learning productionization. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) |
 | [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) | A curated list of awesome research in machine learning systems. | ![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning?style=social) |
 
-# Paradigm
+# Learning Paradigm
 
 ## Generative AI
 
@@ -125,7 +127,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Self-supervised Papers](https://github.com/zhimin-z/Awesome-Self-Supervised-Papers) | A curated list of awesome papers about self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/zhimin-z/Awesome-Self-Supervised-Papers?style=social) |
 | [Awesome Semi-supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning) | A curated list of awesome resources on semi-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social) |
 
-# Network Architectures
+# Network Architecture
 
 ## Diffusion Model
 
