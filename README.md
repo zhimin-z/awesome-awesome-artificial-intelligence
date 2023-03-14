@@ -70,12 +70,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A curated list of awesome research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
 | [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | A curated list of awesome machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
 
-## Modality
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml) | A curated list of awesome research topics in multimodal machine learning. | ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml?style=social) |
-
 ## Prompt
 
 | Name | Description | Popularity |
@@ -127,6 +121,32 @@ Also, a listed repository should be excluded if:
 | [Awesome Self-supervised Papers](https://github.com/zhimin-z/Awesome-Self-Supervised-Papers) | A curated list of awesome papers about self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/zhimin-z/Awesome-Self-Supervised-Papers?style=social) |
 | [Awesome Semi-supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning) | A curated list of awesome resources on semi-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social) |
 
+# Modality
+
+## Computer Vision
+
+| [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
+| [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
+| [Awesome AI Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) | A curated list of awesome tools, ideas, models, and helpers for the prompt designer playing with AI art and image synthesis. | ![GitHub stars](https://img.shields.io/github/stars/altryne/awesome-ai-art-image-synthesis?style=social) |
+
+## Multi-modal learning
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml) | A curated list of awesome research topics in multimodal machine learning. | ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml?style=social) |
+
+## Natural Language Processing
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
+| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, especially ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
+
+## Speech Recognition & Synthesis
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
+
 # Network Architecture
 
 ## Diffusion Model
@@ -169,25 +189,13 @@ Also, a listed repository should be excluded if:
 
 # Domain-specific
 
-## Natural Language Processing
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
-| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, especially ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
-
-
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
-| [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
-| [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
-| [Awesome AI Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) | A curated list of awesome tools, ideas, models, and helpers for the prompt designer playing with AI art and image synthesis. | ![GitHub stars](https://img.shields.io/github/stars/altryne/awesome-ai-art-image-synthesis?style=social) |
 | [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co) | A curated list of awesome resources that utilize machine learning technologies to solve combinatorial optimization problems. | ![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
 | [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) | A curated list of awesome resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods. | ![GitHub stars](https://img.shields.io/github/stars/Zymrael/awesome-neural-ode?style=social) |
-| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
 
 # Language-specific
 
