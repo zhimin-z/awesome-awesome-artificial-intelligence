@@ -157,10 +157,10 @@ Also, a listed repository should be excluded if:
 | [Awesome Transformers](https://github.com/abacaj/awesome-transformers) | A curated list of awesome transformer models. | ![GitHub stars](https://img.shields.io/github/stars/abacaj/awesome-transformers?style=social) |
 | [Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | A curated list of awesome vision transformer and attention, including papers, codes, and related websites. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
 | [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) | A curated list of awesome resources on applications of transformers in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/fahadshamshad/awesome-transformers-in-medical-imaging?style=social) |
-| [Awesome Transformer NLP](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | A curated list of awesome machine learning resources for natural language processing. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
+| [Awesome Transformer NLP](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | A curated list of awesome NLP resources focused on Transformer network, attention mechanism, etc.. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
 | [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) | A curated list of awesome research about transformer with vision. | ![GitHub stars](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social) |
 
-## Others
+## Miscellaneous
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
@@ -168,6 +168,8 @@ Also, a listed repository should be excluded if:
 | [wesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | A curated list of awesome resources related to the geometry of representations in the brain, deep networks, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/neurreps/awesome-neural-geometry?style=social) |
 
 # Domain-specific
+
+## Natural Language Processing
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
