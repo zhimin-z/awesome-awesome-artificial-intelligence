@@ -5,7 +5,9 @@
 
 **Awesome Awesome Machine Learning** is a hand-cradfted curated list of awesome curated lists of many topics closely related to machine learning.
 
-_If you want to contribute to this list (please do), propose a pull request or raise an issue if there is any uncertainty._
+_If you want to contribute to this list (please do), propose a pull request._
+**If you have any suggestion, critique, or question, raise an issue.**
+
 Also, a listed repository should be excluded if:
 
 * It is a public archive.
