@@ -96,6 +96,12 @@ Also, a listed repository should be excluded if:
 
 # Paradigm
 
+## Generative AI
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl) | A curated list of awesome deep reinforcement learning resources. | ![GitHub stars](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social) |
+
 ## Reinforcement Learning
 
 | Name | Description | Popularity |
@@ -128,6 +134,7 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome GAN](https://github.com/nightrome/really-awesome-gan) | A curated list of awesome resources for generative adversarial network. | ![GitHub stars](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social) |
+| [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) | A curated list of awesome GAN resources in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/xinario/awesome-gan-for-medical-imaging?style=social) |
 
 ## Graph Neural Network
 
@@ -167,6 +174,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co) | A curated list of awesome resources that utilize machine learning technologies to solve combinatorial optimization problems. | ![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
 | [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) | A curated list of awesome resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods. | ![GitHub stars](https://img.shields.io/github/stars/Zymrael/awesome-neural-ode?style=social) |
+| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
 
 # Language-specific
 
