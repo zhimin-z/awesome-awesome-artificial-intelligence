@@ -3,7 +3,7 @@
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
 </div>
 
-**Awesome Awesome Machine Learning** is a hand-cradfted curated list of awesome curated lists of many topics closely related to machine learning.
+**Awesome Awesome Machine Learning** is a curated list of awesome curated lists of many topics closely related to machine learning.
 
 _If you want to contribute to this list (please do), welcome to propose a pull request._
 
