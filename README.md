@@ -70,12 +70,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A curated list of awesome research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
 | [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | A curated list of awesome machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
 
-## Prompt
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
-
 ## Privacy & Security
 
 | Name | Description | Popularity |
@@ -84,7 +78,15 @@ Also, a listed repository should be excluded if:
 | [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | A curated list of awesome resources releated to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | A curated list of awesome federated learning, including research papers, books, codes, tutorials, videos and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
 
-## System & Engineering
+## Prompt Engineering
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome ChatGPT Prompt](https://github.com/f/awesome-chatgpt-prompts) | A curated list of awesome prompt examples to be used with the ChatGPT model. | ![GitHub stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
+| [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
+
+## System & Production
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
@@ -138,6 +140,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, especially ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
 
