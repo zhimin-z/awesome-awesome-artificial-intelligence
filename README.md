@@ -42,13 +42,11 @@ Also, a listed repository should be excluded if:
 | [Awesome AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) | A curated list of awesome automated deep learning related resources. | ![GitHub stars](https://img.shields.io/github/stars/D-X-Y/Awesome-AutoDL?style=social) |
 | [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers) | A curated list of awesome automated machine learning papers, articles, tutorials, slides and projects. | ![GitHub stars](https://img.shields.io/github/stars/hibayesian/awesome-automl-papers?style=social) |
 
-
 ## Compilation
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers) | A curated list of awesome compiler projects and papers for tensor computation and deep learning. | ![GitHub stars](https://img.shields.io/github/stars/merrymercy/awesome-tensor-compilers?style=social) |
-
 
 ## Compression
 
@@ -56,20 +54,17 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) | A curated list of awesome neural network pruning resources. | ![GitHub stars](https://img.shields.io/github/stars/he-y/Awesome-Pruning?style=social) |
 
-
 ## Edge
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome EMDL](https://github.com/csarron/awesome-emdl) | A curated list of awesome deep learning research resources on embedded and mobile. | ![GitHub stars](https://img.shields.io/github/stars/csarron/awesome-emdl?style=social) |
 
-
 ## Ethics & Regulation
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI Guidelines](https://github.com/steven2358/awesome-blockchain-ai) | A curated list of awesome artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
-
 
 ## Explainability & Interpretability
 
@@ -79,7 +74,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A curated list of awesome research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
 | [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | A curated list of awesome machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
 
-
 ## Privacy & Security
 
 | Name | Description | Popularity |
@@ -87,7 +81,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) | A curated list of awesome blockchain projects for artificial intelligence and machine learning. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
 | [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | A curated list of awesome resources releated to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | A curated list of awesome federated learning, including research papers, books, codes, tutorials, videos and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
-
 
 ## System & Production
 
@@ -112,7 +105,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
 | [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
 
-
 ## Reinforcement Learning
 
 | Name | Description | Popularity |
@@ -121,7 +113,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Game AI](https://github.com/datamllab/awesome-game-ai) | A curated list of awesome resources of multi-agent reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/datamllab/awesome-game-ai?style=social) |
 | [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl) | A curated list of awesome research for offline reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/hanjuku-kaso/awesome-offline-rl?style=social) |
 | [Awesome RL](https://github.com/aikorea/awesome-rl) | A curated list of awesome resources dedicated to reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/aikorea/awesome-rl?style=social) |
-
 
 ## Weakly-Supervised Learning
 
@@ -145,12 +136,10 @@ Also, a listed repository should be excluded if:
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
 | [Awesome AI Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) | A curated list of awesome tools, ideas, models, and helpers for the prompt designer playing with AI art and image synthesis. | ![GitHub stars](https://img.shields.io/github/stars/altryne/awesome-ai-art-image-synthesis?style=social) |
 
-
 ## Multi-modal learning
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml) | A curated list of awesome research topics in multimodal machine learning. | ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml?style=social) |
-
 
 ## Natural Language Processing
 
@@ -159,7 +148,6 @@ Also, a listed repository should be excluded if:
 | [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, especially ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
-
 
 ## Speech Recognition & Synthesis
 
@@ -177,7 +165,6 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) | A curated list of awesome resources for generative adversarial network. | ![GitHub stars](https://img.shields.io/github/stars/awesome-stable-diffusion/awesome-stable-diffusion?style=social) |
 
-
 ## Generative Adversarial Network
 
 | Name | Description | Popularity |
@@ -185,14 +172,12 @@ Also, a listed repository should be excluded if:
 | [Awesome GAN](https://github.com/nightrome/really-awesome-gan) | A curated list of awesome resources for generative adversarial network. | ![GitHub stars](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social) |
 | [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) | A curated list of awesome GAN resources in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/xinario/awesome-gan-for-medical-imaging?style=social) |
 
-
 ## Graph Neural Network
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Graph Neural Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks) | A curated list of awesome resources related with graph neural network. | ![GitHub stars](https://img.shields.io/github/stars/GRAND-Lab/Awesome-Graph-Neural-Networks?style=social) |
 | [Awesome Self-supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) | A curated list of awesome papers on the self-supervised learning on graph neural networks. | ![GitHub stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?style=social) |
-
 
 ## Transformer
 
@@ -204,7 +189,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) | A curated list of awesome resources on applications of transformers in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/fahadshamshad/awesome-transformers-in-medical-imaging?style=social) |
 | [Awesome Transformer NLP](https://github.com/cedrickchee/awesome-transformer-nlp) | A curated list of awesome NLP resources focused on Transformer network, attention mechanism, etc.. | ![GitHub stars](https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social) |
 | [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) | A curated list of awesome research about transformer with vision. | ![GitHub stars](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social) |
-
 
 ## Miscellaneous
 
