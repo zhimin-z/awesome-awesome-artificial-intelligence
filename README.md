@@ -95,16 +95,6 @@ Also, a listed repository should be excluded if:
 
 # Learning Paradigm
 
-## Generative AI
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome ChatGPT Prompt](https://github.com/f/awesome-chatgpt-prompts) | A curated list of awesome prompt examples to be used with the ChatGPT model. | ![GitHub stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |
-| [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | A curated list of awesome projects, tools, artworks, and models on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/filipecalegario/awesome-generative-ai?style=social) |
-| [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
-| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
-| [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
-
 ## Reinforcement Learning
 
 | Name | Description | Popularity |
@@ -201,13 +191,30 @@ Also, a listed repository should be excluded if:
 
 # Domain-specific
 
+## Generative AI
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome ChatGPT Prompt](https://github.com/f/awesome-chatgpt-prompts) | A curated list of awesome prompt examples to be used with the ChatGPT model. | ![GitHub stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |
+| [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | A curated list of awesome projects, tools, artworks, and models on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/filipecalegario/awesome-generative-ai?style=social) |
+| [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
+| [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
+
+## Mathematics AI
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co) | A curated list of awesome resources that utilize machine learning technologies to solve combinatorial optimization problems. | ![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social) |
+| [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) | A curated list of awesome resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods. | ![GitHub stars](https://img.shields.io/github/stars/Zymrael/awesome-neural-ode?style=social) |
+
+## Miscellaneous
+
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
-| [Awesome Machine Learning for Combinatorial Optimization Resources](https://github.com/Thinklab-SJTU/awesome-ml4co) | A curated list of awesome resources that utilize machine learning technologies to solve combinatorial optimization problems. | ![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
-| [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) | A curated list of awesome resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods. | ![GitHub stars](https://img.shields.io/github/stars/Zymrael/awesome-neural-ode?style=social) |
 
 
 
