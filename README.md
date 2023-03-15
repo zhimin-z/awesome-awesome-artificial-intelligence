@@ -13,7 +13,7 @@ Also, a listed repository should be excluded if:
 
 * It is a public archive.
 * It is not written in English.
-* It is not popular enough (< 400 stars).
+* It is not popular enough (~400 stars).
 * It is not actively maintained (~1 year).
 
 **Notice:** Thanks to the static nature of the markdown format, we do not intend to assign multiple categories to any awesome list.
@@ -80,7 +80,14 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) | A curated list of awesome blockchain projects for artificial intelligence and machine learning. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
 | [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | A curated list of awesome resources releated to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
+| [Awesome Federated Learning on Graph and Tabular Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) | A curated list of awesome papers, frameworks, and datasets of federated learning on graph and tabular data. | ![GitHub stars](https://img.shields.io/github/stars/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | A curated list of awesome federated learning, including research papers, books, codes, tutorials, videos and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
+
+## Robustness
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Graph Adversarial Learning](https://github.com/EdisonLeeeee/Graph-Adversarial-Learning) | A curated list of awesome resources of adversarial attack and defense on graph data. | ![GitHub stars](https://img.shields.io/github/stars/EdisonLeeeee/Graph-Adversarial-Learning?style=social) |
 
 ## System & Production
 
@@ -124,6 +131,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
+| [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) | A curated list of awesome image registration related books, papers, videos, and toolboxes. | ![GitHub stars](https://img.shields.io/github/stars/Awesome-Image-Registration-Organization/awesome-image-registration?style=social) |
 | [Awesome AI Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) | A curated list of awesome tools, ideas, models, and helpers for the prompt designer playing with AI art and image synthesis. | ![GitHub stars](https://img.shields.io/github/stars/altryne/awesome-ai-art-image-synthesis?style=social) |
 
 ## Multi-modal learning
@@ -166,6 +174,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) | A curated list of awesome graph classification methods, covering embedding, deep learning, graph kernel and factorization papers with reference implementations. | ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-classification?style=social) |
 | [Awesome Graph Neural Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks) | A curated list of awesome resources related with graph neural network. | ![GitHub stars](https://img.shields.io/github/stars/GRAND-Lab/Awesome-Graph-Neural-Networks?style=social) |
 | [Awesome Self-supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) | A curated list of awesome papers on the self-supervised learning on graph neural networks. | ![GitHub stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?style=social) |
 
@@ -200,6 +209,13 @@ Also, a listed repository should be excluded if:
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
 | [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
 | [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
+
+## Knowledge Graph
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph) | A curated list of awesome knowledge graph related tutorials, databases, tools and other resources. | ![GitHub stars](https://img.shields.io/github/stars/totogo/awesome-knowledge-graph?style=social) |
+| [Awesome Graph Learning](https://github.com/BrambleXu/knowledge-graph-learning) | A curated list of awesome knowledge graph related tutorials, projects and communities. | ![GitHub stars](https://img.shields.io/github/stars/BrambleXu/knowledge-graph-learning?style=social) |
 
 ## Mathematics AI
 
