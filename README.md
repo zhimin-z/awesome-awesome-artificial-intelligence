@@ -215,7 +215,7 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph) | A curated list of awesome knowledge graph related tutorials, databases, tools and other resources. | ![GitHub stars](https://img.shields.io/github/stars/totogo/awesome-knowledge-graph?style=social) |
-| [Awesome Graph Learning](https://github.com/BrambleXu/knowledge-graph-learning) | A curated list of awesome knowledge graph related tutorials, projects and communities. | ![GitHub stars](https://img.shields.io/github/stars/BrambleXu/knowledge-graph-learning?style=social) |
+| [Awesome Knowledge Graph](https://github.com/BrambleXu/knowledge-graph-learning) | A curated list of awesome knowledge graph related tutorials, projects and communities. | ![GitHub stars](https://img.shields.io/github/stars/BrambleXu/knowledge-graph-learning?style=social) |
 
 ## Mathematics AI
 
