@@ -146,6 +146,7 @@ Also, a listed repository should be excluded if:
 | [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, preferably ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
+| [Awesome Question Answering](https://github.com/dapurv5/awesome-question-answering) | A curated list of awesome resources on question answering. | ![GitHub stars](https://img.shields.io/github/stars/dapurv5/awesome-question-answering?style=social) |
 
 ## Speech Recognition & Synthesis
 
@@ -216,6 +217,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph) | A curated list of awesome knowledge graph related tutorials, databases, tools and other resources. | ![GitHub stars](https://img.shields.io/github/stars/totogo/awesome-knowledge-graph?style=social) |
 | [Awesome Knowledge Graph](https://github.com/BrambleXu/knowledge-graph-learning) | A curated list of awesome knowledge graph related tutorials, projects and communities. | ![GitHub stars](https://img.shields.io/github/stars/BrambleXu/knowledge-graph-learning?style=social) |
+| [Awesome Knowledge Graph Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) | A curated list of awesome collection of knowledge graph reasoning works, including papers, codes and datasets. | ![GitHub stars](https://img.shields.io/github/stars/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?style=social) |
 
 ## Mathematics AI
 
@@ -231,6 +233,7 @@ Also, a listed repository should be excluded if:
 | [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
+| [Awesome TS Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | A curated list of awesome tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
 
 
 
