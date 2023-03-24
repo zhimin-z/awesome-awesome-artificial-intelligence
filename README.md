@@ -125,6 +125,12 @@ Also, a listed repository should be excluded if:
 
 # Modality
 
+## Audio Processing
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
+
 ## Computer Vision
 
 | Name | Description | Popularity |
@@ -148,12 +154,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, preferably ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
 | [Awesome Question Answering](https://github.com/dapurv5/awesome-question-answering) | A curated list of awesome resources on question answering. | ![GitHub stars](https://img.shields.io/github/stars/dapurv5/awesome-question-answering?style=social) |
-
-## Speech Recognition & Synthesis
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
 
 
 
