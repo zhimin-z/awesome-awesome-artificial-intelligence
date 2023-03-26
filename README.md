@@ -151,8 +151,8 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) | A curated list of awesome tools, demos, docs for ChatGPT and GPT-3. | ![GitHub stars](https://img.shields.io/github/stars/humanloop/awesome-chatgpt?style=social) |
-| [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social) |
+| [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/eon01/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. | ![GitHub stars](https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/saharmor/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including demos, tools, articles, and more. | ![GitHub stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api) | A curated list of awesome apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota. | ![GitHub stars](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api?style=social) |
