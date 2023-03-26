@@ -141,6 +141,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) | A curated list of awesome image registration related books, papers, videos, and toolboxes. | ![GitHub stars](https://img.shields.io/github/stars/Awesome-Image-Registration-Organization/awesome-image-registration?style=social) |
 | [Awesome Image Translation](https://github.com/weihaox/awesome-image-translation) | A curated list of awesome resources image-to-image translation. | ![GitHub stars](https://img.shields.io/github/stars/weihaox/awesome-image-translation?style=social) |
 | [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
+| [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) | A curated list of awesome resources for generative adversarial network. | ![GitHub stars](https://img.shields.io/github/stars/awesome-stable-diffusion/awesome-stable-diffusion?style=social) |
 
 ## Multi-modal learning
 | Name | Description | Popularity |
@@ -168,12 +169,6 @@ Also, a listed repository should be excluded if:
 
 
 # Network Architecture
-
-## Diffusion Model
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) | A curated list of awesome resources for generative adversarial network. | ![GitHub stars](https://img.shields.io/github/stars/awesome-stable-diffusion/awesome-stable-diffusion?style=social) |
 
 ## Generative Adversarial Network
 
