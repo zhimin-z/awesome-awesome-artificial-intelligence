@@ -150,10 +150,19 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) | A curated list of awesome tools, demos, docs for ChatGPT and GPT-3. | ![GitHub stars](https://img.shields.io/github/stars/humanloop/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
+| [Awesome ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social) |
+| [Awesome ChatGPT](https://github.com/eon01/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. | ![GitHub stars](https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social) |
+| [Awesome ChatGPT](https://github.com/saharmor/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including demos, tools, articles, and more. | ![GitHub stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social) |
+| [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api) | A curated list of awesome apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota. | ![GitHub stars](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api?style=social) |
+| [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | A curated list of awesome prompts to use ChatGPT better. | ![GitHub stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
+| [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) | A curated list of awesome collection of demos and articles about the OpenAI GPT-3 API. | ![GitHub stars](https://img.shields.io/github/stars/elyase/awesome-gpt3?style=social) |
+| [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | A curated list of awesome prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4?style=social) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, preferably ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
 | [Awesome Question Answering](https://github.com/dapurv5/awesome-question-answering) | A curated list of awesome resources on question answering. | ![GitHub stars](https://img.shields.io/github/stars/dapurv5/awesome-question-answering?style=social) |
+| [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) | A curated list of awesome totally open alternatives to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social) |
 
 
 
