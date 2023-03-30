@@ -240,6 +240,12 @@ Also, a listed repository should be excluded if:
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
 | [Awesome TS Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | A curated list of awesome tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
 
+## Robotics
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | A curated list of awesome resources using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites. | ![GitHub stars](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social) |
+
 
 
 # Language-specific
