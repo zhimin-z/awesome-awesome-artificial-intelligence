@@ -202,7 +202,7 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Equivariant Network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) | A curated list of awesome papers for equivariant neural network. | ![GitHub stars](https://img.shields.io/github/stars/Chen-Cai-OSU/awesome-equivariant-network?style=social) |
-| [wesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | A curated list of awesome resources related to the geometry of representations in the brain, deep networks, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/neurreps/awesome-neural-geometry?style=social) |
+| [Awesome Neural Geometry](https://github.com/neurreps/awesome-neural-geometry) | A curated list of awesome resources related to the geometry of representations in the brain, deep networks, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/neurreps/awesome-neural-geometry?style=social) |
 
 
 
