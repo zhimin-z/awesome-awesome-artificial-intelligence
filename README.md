@@ -239,6 +239,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimisation. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
 | [Awesome TS Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | A curated list of awesome tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
+| [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) | A curated list of awesome collections of vector search related libraries, service and research papers. | ![GitHub stars](https://img.shields.io/github/stars/currentslab/awesome-vector-search?style=social) |
 
 ## Robotics
 
