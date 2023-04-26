@@ -60,11 +60,12 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome EMDL](https://github.com/csarron/awesome-emdl) | A curated list of awesome deep learning research resources on embedded and mobile. | ![GitHub stars](https://img.shields.io/github/stars/csarron/awesome-emdl?style=social) |
 
-## Ethics & Regulation
+## Alignment & Regulation
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome AI Guidelines](https://github.com/steven2358/awesome-blockchain-ai) | A curated list of awesome artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
+| [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) | A curated list of awesome artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-artificial-intelligence-guidelines?style=social) |
+| [Awesome RLHF](https://github.com/opendilab/awesome-RLHF) | A curated list of awesome collection of research papers for reinforcement learning with human feedback. | ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?style=social) |
 
 ## Explainability & Interpretability
 
