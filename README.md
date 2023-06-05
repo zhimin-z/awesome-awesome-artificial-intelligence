@@ -148,6 +148,7 @@ Also, a listed repository should be excluded if:
 ## Multi-modal learning
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | A curated list of Multimodal Large Language Models (MLLM). | ![GitHub stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social) |
 | [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml) | A curated list of awesome research topics in multimodal machine learning. | ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml?style=social) |
 
 ## Natural Language Processing
