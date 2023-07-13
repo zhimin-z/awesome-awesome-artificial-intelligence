@@ -130,7 +130,8 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
+| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome list for Whisper. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
+| [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social) |
 
 ## Computer Vision
 
@@ -156,13 +157,16 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) | A curated list of awesome tools, demos, docs for ChatGPT and GPT-3. | ![GitHub stars](https://img.shields.io/github/stars/humanloop/awesome-chatgpt?style=social) |
+| [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) | A curated list of awesome ChatGPT resources. | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social) |
+| [Awesome ChatGPT](https://github.com/eon01/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. | ![GitHub stars](https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome recources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
-| [Awesome ChatGPT](https://github.com/eon01/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. | ![GitHub stars](https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/saharmor/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including demos, tools, articles, and more. | ![GitHub stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api) | A curated list of awesome apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota. | ![GitHub stars](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api?style=social) |
 | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | A curated list of awesome prompts to use ChatGPT better. | ![GitHub stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |
+| [Awesome ChatGPT Repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | A curated list of awesome resources dedicated to open source GitHub repositories related to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/taishi-i/awesome-ChatGPT-repositories?style=social) |
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
+| [Awesome GPT](https://github.com/formulahendry/awesome-gpt) | A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more. | ![GitHub stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social) |
 | [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) | A curated list of awesome collection of demos and articles about the OpenAI GPT-3 API. | ![GitHub stars](https://img.shields.io/github/stars/elyase/awesome-gpt3?style=social) |
 | [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | A curated list of awesome prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4?style=social) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, preferably ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
@@ -214,6 +218,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome AI Agent](https://github.com/e2b-dev/awesome-ai-agents) | A curated list of awesome AI autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=social) |
 | [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | A curated list of awesome projects, tools, artworks, and models on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/filipecalegario/awesome-generative-ai?style=social) |
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
 | [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
