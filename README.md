@@ -130,8 +130,8 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome list for Whisper. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
-| [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social) |
+| [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | A curated list of awesome resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
+| [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) | A curated list of awesome resources for Whisper. | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social) |
 
 ## Computer Vision
 
