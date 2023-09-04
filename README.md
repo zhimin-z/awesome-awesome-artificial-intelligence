@@ -170,6 +170,7 @@ Also, a listed repository should be excluded if:
 | [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) | A curated list of awesome collection of demos and articles about the OpenAI GPT-3 API. | ![GitHub stars](https://img.shields.io/github/stars/elyase/awesome-gpt3?style=social) |
 | [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | A curated list of awesome prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4?style=social) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | A curated list of awesome research on large language models, preferably ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
+| [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | A curated list of awesome LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social) |
 | [Awesome Question Answering](https://github.com/dapurv5/awesome-question-answering) | A curated list of awesome resources on question answering. | ![GitHub stars](https://img.shields.io/github/stars/dapurv5/awesome-question-answering?style=social) |
 | [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) | A curated list of awesome totally open alternatives to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social) |
 
