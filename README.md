@@ -219,6 +219,7 @@ Also, a listed repository should be excluded if:
 | [Awesome AI Agent](https://github.com/e2b-dev/awesome-ai-agents) | A curated list of awesome AI autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=social) |
 | [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | A curated list of awesome projects, tools, artworks, and models on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/filipecalegario/awesome-generative-ai?style=social) |
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
+| [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent) | A curated list of awesome LLM-powered agents. | ![GitHub stars](https://img.shields.io/github/stars/hyp1231/awesome-llm-powered-agent?style=social) |
 | [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
 
 ## Knowledge Graph
