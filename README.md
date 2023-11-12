@@ -12,7 +12,6 @@ _If you have any suggestions, critiques, or questions regarding this list, welco
 Also, a listed repository should be excluded if:
 
 * It is a public archive.
-* It is written in non-English.
 * It is not popular enough ($\lt\sim500$ stars).
 * It is not actively maintained ($\gt\sim1$ year).
 
@@ -160,8 +159,9 @@ Also, a listed repository should be excluded if:
 | [Awesome ChatGPT](https://github.com/OpenMindClub/awesome-chatgpt) | A curated list of awesome resources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt) | A curated list of awesome resources, tools, applications, and usages of ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/Kamigami55/awesome-chatgpt?style=social) |
 | [Awesome ChatGPT](https://github.com/saharmor/awesome-chatgpt) | A curated list of awesome ChatGPT resources, including demos, tools, articles, and more. | ![GitHub stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social) |
-| [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api) | A curated list of awesome apps and tools that not only use the new ChatGPT API but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota. | ![GitHub stars](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api?style=social) |
+| [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api) | A curated list of awesome apps and tools that not only use the new ChatGPT API but also allow users to configure their API keys, enabling free and on-demand usage of their quota. | ![GitHub stars](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api?style=social) |
 | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | A curated list of awesome prompts to use ChatGPT better. | ![GitHub stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social) |
+| [Awesome ChatGPT Prompts (CN)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | A curated list of awesome Chinese prompts to use ChatGPT better. | ![GitHub stars](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social) |
 | [Awesome ChatGPT Repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | A curated list of awesome resources dedicated to open-source GitHub repositories related to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/taishi-i/awesome-ChatGPT-repositories?style=social) |
 | [Awesome Deep Learning for Natural Language Processing](https://github.com/brianspiering/awesome-dl4nlp) | A curated list of awesome deep learning for natural language processing resources. | ![GitHub stars](https://img.shields.io/github/stars/brianspiering/awesome-dl4nlp?style=social) |
 | [Awesome Efficient LLM](https://github.com/horseee/Awesome-Efficient-LLM) | A curated list of awesome resources for efficient large language models. | ![GitHub stars](https://img.shields.io/github/stars/horseee/Awesome-Efficient-LLM?style=social) |
@@ -172,8 +172,6 @@ Also, a listed repository should be excluded if:
 | [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | A curated list of awesome LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social) |
 | [Awesome Question Answering](https://github.com/dapurv5/awesome-question-answering) | A curated list of awesome resources on question answering. | ![GitHub stars](https://img.shields.io/github/stars/dapurv5/awesome-question-answering?style=social) |
 | [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) | A curated list of awesome open alternatives to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social) |
-
-
 
 # Network Architecture
 
