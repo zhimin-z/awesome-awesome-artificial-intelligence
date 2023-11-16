@@ -52,7 +52,6 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome LLM Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) | A curated list of awesome research papers and tools on LLM compression. | ![GitHub stars](https://img.shields.io/github/stars/HuangOwen/Awesome-LLM-Compression?style=social) |
 | [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) | A curated list of awesome neural network pruning resources. | ![GitHub stars](https://img.shields.io/github/stars/he-y/Awesome-Pruning?style=social) |
 
 ## Edge
