@@ -11,7 +11,6 @@ _If you have any suggestions, critiques, or questions regarding this list, welco
 
 Also, a listed repository should be excluded if:
 
-* It is a public archive.
 * It is not popular enough ($\lt\sim500$ stars).
 * It is not actively maintained ($\gt\sim1$ year).
 
