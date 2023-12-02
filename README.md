@@ -117,6 +117,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Contrastive Self-supervised Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning) | A curated list of awesome research on contrastive self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/asheeshcric/awesome-contrastive-self-supervised-learning?style=social) |
 | [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) | A curated list of awesome self-supervised graph representation learning resources. | ![GitHub stars](https://img.shields.io/github/stars/LirongWu/awesome-graph-self-supervised-learning?style=social) |
+| [Awesome Instruction Tuning Dataset](https://github.com/yaodongC/awesome-instruction-dataset) | A curated list of awesome datasets to train instruction-following LLMs. | ![GitHub stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social) |
 | [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) | A curated list of awesome resources on self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning?style=social) |
 | [Awesome Semi-supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning) | A curated list of awesome resources on semi-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social) |
 
