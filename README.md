@@ -143,6 +143,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Image Translation](https://github.com/weihaox/awesome-image-translation) | A curated list of awesome resources image-to-image translation. | ![GitHub stars](https://img.shields.io/github/stars/weihaox/awesome-image-translation?style=social) |
 | [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
 | [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) | A curated list of awesome resources for generative adversarial networks. | ![GitHub stars](https://img.shields.io/github/stars/awesome-stable-diffusion/awesome-stable-diffusion?style=social) |
+| [Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) | A curated list of awesome diffusion models for video generation, editing, restoration, understanding, etc.. | ![GitHub stars](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social) |
 
 ## Multi-modal learning
 | Name | Description | Popularity |
