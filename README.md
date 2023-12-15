@@ -88,6 +88,7 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Graph Adversarial Learning](https://github.com/EdisonLeeeee/Graph-Adversarial-Learning) | A curated list of awesome resources for adversarial attack and defense on graph data. | ![GitHub stars](https://img.shields.io/github/stars/EdisonLeeeee/Graph-Adversarial-Learning?style=social) |
+| [Awesome Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature) | A curated list of awesome adversarial attacks and defenses papers on graph-structured data. | ![GitHub stars](https://img.shields.io/github/stars/safe-graph/graph-adversarial-learning-literature?style=social) |
 
 ## System & Production
 
@@ -111,7 +112,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl) | A curated list of awesome research for offline reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/hanjuku-kaso/awesome-offline-rl?style=social) |
 | [Awesome RL](https://github.com/aikorea/awesome-rl) | A curated list of awesome resources dedicated to reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/aikorea/awesome-rl?style=social) |
 
-## Weakly-Supervised Learning
+## Supervised Learning
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
