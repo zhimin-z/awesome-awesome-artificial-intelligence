@@ -123,7 +123,7 @@ Also, a listed repository should be excluded if:
 
 
 
-# Modality
+# Application
 
 ## Audio Processing
 
@@ -137,12 +137,16 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) | A curated list of awesome tools, ideas, models, and helpers for the prompt designer playing with AI art and image synthesis. | ![GitHub stars](https://img.shields.io/github/stars/altryne/awesome-ai-art-image-synthesis?style=social) |
+| [Awesome Face Forgery Generation and Detection](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection) | A curated list of awesome articles and codes related to face forgery generation and detection. | ![GitHub stars](https://img.shields.io/github/stars/clpeng/Awesome-Face-Forgery-Generation-and-Detection?style=social) |
 | [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | A curated list of awesome image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | A curated list of awesome deep learning-based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
 | [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) | A curated list of awesome books, papers, videos, and toolboxes related to image registration. | ![GitHub stars](https://img.shields.io/github/stars/Awesome-Image-Registration-Organization/awesome-image-registration?style=social) |
 | [Awesome Image Translation](https://github.com/weihaox/awesome-image-translation) | A curated list of awesome resources image-to-image translation. | ![GitHub stars](https://img.shields.io/github/stars/weihaox/awesome-image-translation?style=social) |
 | [Awesome Prompting Papers in Computer Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | A curated list of awesome prompt-based papers in computer vision and vision-language learning. | ![GitHub stars](https://img.shields.io/github/stars/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision?style=social) |
 | [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) | A curated list of awesome resources for generative adversarial networks. | ![GitHub stars](https://img.shields.io/github/stars/awesome-stable-diffusion/awesome-stable-diffusion?style=social) |
+| [Awesome Talking Face](https://github.com/JosephPai/Awesome-Talking-Face) | A curated list of awesome resources for talking face generation. | ![GitHub stars](https://img.shields.io/github/stars/JosephPai/Awesome-Talking-Face?style=social) |
+| [Awesome Talking Face Generation](https://github.com/YunjinPark/awesome_talking_face_generation) | A curated list of awesome resources for talking face generation. | ![GitHub stars](https://img.shields.io/github/stars/YunjinPark/awesome_talking_face_generation?style=social) |
+| [Awesome Talking Head Generation](https://github.com/harlanhong/awesome-talking-head-generation) | A curated list of awesome resources for image-driven talking head generation. | ![GitHub stars](https://img.shields.io/github/stars/harlanhong/awesome-talking-head-generation?style=social) |
 | [Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) | A curated list of awesome diffusion models for video generation, editing, restoration, understanding, etc.. | ![GitHub stars](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social) |
 
 ## Multi-modal learning
