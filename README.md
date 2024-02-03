@@ -229,13 +229,6 @@ Also, a listed repository should be excluded if:
 
 # Domain-specific
 
-## Anomaly Detection
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Industrial Anomaly Detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) | A curated list of awesome papers and datasets for industrial anomaly detection. | ![GitHub stars](https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social) |
-| [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | A curated list of awesome tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
-
 ## Generative AI
 
 | Name | Description | Popularity |
@@ -265,11 +258,12 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+
 | [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in the financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome Domain LLM](https://github.com/luban-agi/Awesome-Domain-LLM) | A curated list of awesome models, datasets, and evaluation benchmarks for various domains. | ![GitHub stars](https://img.shields.io/github/stars/luban-agi/Awesome-Domain-LLM?style=social) |
+| [Awesome Industrial Anomaly Detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) | A curated list of awesome papers and datasets for industrial anomaly detection. | ![GitHub stars](https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimization. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
-| [Awesome Time Series](https://github.com/cuge1995/awesome-time-series) | A curated list of awesome papers, code, and other resources for time series forecasting. | ![GitHub stars](https://img.shields.io/github/stars/cuge1995/awesome-time-series?style=social) |
 | [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) | A curated list of awesome collections of vector search-related libraries, services, and research papers. | ![GitHub stars](https://img.shields.io/github/stars/currentslab/awesome-vector-search?style=social) |
 
 ## Robotics
@@ -278,6 +272,13 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | A curated list of awesome resources using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites. | ![GitHub stars](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social) |
 
+## Time Series
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Time Series](https://github.com/cuge1995/awesome-time-series) | A curated list of awesome papers, code, and other resources for time series forecasting. | ![GitHub stars](https://img.shields.io/github/stars/cuge1995/awesome-time-series?style=social) |
+| [Awesome Time Series](https://github.com/lmmentel/awesome-time-series) | A curated list of awesome resources for time series forecasting. | ![GitHub stars](https://img.shields.io/github/stars/lmmentel/awesome-time-series?style=social) |
+| [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | A curated list of awesome tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
 
 
 # Language-specific
