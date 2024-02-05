@@ -155,7 +155,8 @@ Also, a listed repository should be excluded if:
 ## Multi-modal learning
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | A curated list of Multimodal Large Language Models (MLLM). | ![GitHub stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social) |
+| [Awesome LLM 3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) | A curated list of multi-modal large language models in 3D world resources. | ![GitHub stars](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D?style=social) |
+| [Awesome Multimodal Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | A curated list of multimodal large language models (MLLM). | ![GitHub stars](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models?style=social) |
 | [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml) | A curated list of awesome research topics in multimodal machine learning. | ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml?style=social) |
 | [Awesome Multimodal Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research) | A curated list of multimodal-related research. | ![GitHub stars](https://img.shields.io/github/stars/Eurus-Holmes/Awesome-Multimodal-Research?style=social) |
 
@@ -260,11 +261,18 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 
 | [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in the financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
-| [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome Domain LLM](https://github.com/luban-agi/Awesome-Domain-LLM) | A curated list of awesome models, datasets, and evaluation benchmarks for various domains. | ![GitHub stars](https://img.shields.io/github/stars/luban-agi/Awesome-Domain-LLM?style=social) |
 | [Awesome Industrial Anomaly Detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) | A curated list of awesome papers and datasets for industrial anomaly detection. | ![GitHub stars](https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social) |
 | [Awesome Machine Learning for Compilers and Program Optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers) | A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and program optimization. | ![GitHub stars](https://img.shields.io/github/stars/zwang4/awesome-machine-learning-in-compilers?style=social) |
 | [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) | A curated list of awesome collections of vector search-related libraries, services, and research papers. | ![GitHub stars](https://img.shields.io/github/stars/currentslab/awesome-vector-search?style=social) |
+
+## Recommendation System
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
+| [Awesome LLM for RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) | A curated list of awesome papers and resources for LLM-related recommender system topics. | ![GitHub stars](https://img.shields.io/github/stars/CHIANGEL/Awesome-LLM-for-RecSys?style=social) |
+| [Awesome LLM4Rec Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/WLiK/LLM4Rec-Awesome-Papers?style=social) |
 
 ## Robotics
 
