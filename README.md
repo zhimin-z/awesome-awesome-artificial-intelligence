@@ -65,8 +65,6 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome EMDL](https://github.com/csarron/awesome-emdl) | A curated list of awesome deep learning research resources on embedded and mobile. | ![GitHub stars](https://img.shields.io/github/stars/csarron/awesome-emdl?style=social) |
-| [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference) | A curated list of awesome LLM inference papers with code. | ![GitHub stars](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social) |
-
 
 ## Explainability & Interpretability
 
@@ -188,7 +186,9 @@ Also, a listed repository should be excluded if:
 | [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | A curated list of awesome prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4?style=social) |
 | [Awesome Graph LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) | A curated list of awesome resources for graph-related LLMs. | ![GitHub stars](https://img.shields.io/github/stars/XiaoxinHe/Awesome-Graph-LLM?style=social) |
 | [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | A curated list of awesome Chinese LLMs. | ![GitHub stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social) |
+| [Awesome LLMs Evaluation Papers](https://github.com/https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) | A curated list of awesome evaluation papers for LLMs. | ![GitHub stars](https://img.shields.io/github/stars/https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers?style=social) |
 | [Awesome LLMs in China](https://github.com/wgwang/awesome-LLMs-In-China) | A curated list of awesome LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/wgwang/awesome-LLMs-In-China?style=social) |
+| [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference) | A curated list of awesome LLM inference papers with code. | ![GitHub stars](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social) |
 | [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) | A curated list of awesome pre-trained NLP models in Chinese. | ![GitHub stars](https://img.shields.io/github/stars/lonePatient/awesome-pretrained-chinese-nlp-models?style=social) |
 | [Awesome Question Answering](https://github.com/dapurv5/awesome-question-answering) | A curated list of awesome resources on question answering. | ![GitHub stars](https://img.shields.io/github/stars/dapurv5/awesome-question-answering?style=social) |
 | [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) | A curated list of awesome open alternatives to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social) |
