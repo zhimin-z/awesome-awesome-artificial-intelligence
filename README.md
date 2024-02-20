@@ -34,6 +34,13 @@ Also, a listed repository should be excluded if:
 
 # Feature-specific
 
+## Alignment & Regulation
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) | A curated list of awesome artificial intelligence guidelines, principles, codes of ethics, standards, regulation, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-artificial-intelligence-guidelines?style=social) |
+| [Awesome RLHF](https://github.com/opendilab/awesome-RLHF) | A curated list of awesome research papers for reinforcement learning with human feedback. | ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?style=social) |
+
 ## AutoML
 
 | Name | Description | Popularity |
@@ -53,18 +60,13 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) | A curated list of awesome neural network pruning resources. | ![GitHub stars](https://img.shields.io/github/stars/he-y/Awesome-Pruning?style=social) |
 
-## Edge
+## Efficiency & Performance
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome EMDL](https://github.com/csarron/awesome-emdl) | A curated list of awesome deep learning research resources on embedded and mobile. | ![GitHub stars](https://img.shields.io/github/stars/csarron/awesome-emdl?style=social) |
+| [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference) | A curated list of awesome LLM inference papers with code. | ![GitHub stars](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social) |
 
-## Alignment & Regulation
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines) | A curated list of awesome artificial intelligence guidelines, principles, codes of ethics, standards, regulation, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-artificial-intelligence-guidelines?style=social) |
-| [Awesome RLHF](https://github.com/opendilab/awesome-RLHF) | A curated list of awesome research papers for reinforcement learning with human feedback. | ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?style=social) |
 
 ## Explainability & Interpretability
 
