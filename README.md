@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>Awesome Awesome Machine Learning</h1>
+    <h1>Awesome Awesome Artificial Intelligence</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
-**Awesome Awesome Machine Learning** is a curated list of many awesome topics closely related to machine learning.
+**Awesome Awesome Artificial Intelligence** is a curated list of many awesome topics closely related to artificial intelligence.
 
 _If you want to contribute to this list (please do), welcome to propose a pull request._
 
