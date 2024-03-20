@@ -14,7 +14,7 @@ Also, a listed repository should be excluded if:
 * It is not popular enough ($\lt\sim500$ stars).
 * It is not actively maintained ($\gt\sim1$ year).
 
-**Notice:** Thanks to the static nature of the markdown format, we do not intend to assign multiple categories to an awesome list.
+**Notice:** Thanks to the static nature of the markdown format, we do not intend to assign multiple categories to any single entry.
 
 # General
 
