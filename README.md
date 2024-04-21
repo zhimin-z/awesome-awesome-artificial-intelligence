@@ -31,6 +31,7 @@ Also, a listed repository should be excluded if:
 | [Awesome ML](https://github.com/underlines/awesome-ml) | A curated list of awesome resources on machine learning, analytics, and data science. | ![GitHub stars](https://img.shields.io/github/stars/underlines/awesome-ml?style=social) |
 | [Awesome Open Data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) | A curated list of awesome tools for data-centric AI on unstructured data. | ![GitHub stars](https://img.shields.io/github/stars/Renumics/awesome-open-data-centric-ai?style=social) |
 | [Awesome Project Ideas](https://github.com/NirantK/awesome-project-ideas) | A curated list of awesome practical deep learning and machine learning project ideas. | ![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas?style=social) |
+| [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) | A curated list of awesome machine learning libraries written in Rust. | ![GitHub stars](https://img.shields.io/github/stars/vaaaaanquish/Awesome-Rust-MachineLearning?style=social) |
 
 
 
@@ -296,14 +297,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Time Series](https://github.com/cuge1995/awesome-time-series) | A curated list of awesome papers, code, and other resources for time series forecasting. | ![GitHub stars](https://img.shields.io/github/stars/cuge1995/awesome-time-series?style=social) |
 | [Awesome Time Series](https://github.com/lmmentel/awesome-time-series) | A curated list of awesome resources for time series forecasting. | ![GitHub stars](https://img.shields.io/github/stars/lmmentel/awesome-time-series?style=social) |
 | [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | A curated list of awesome tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
-
-
-# Language-specific
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) | A curated list of awesome machine learning libraries written in Rust. | ![GitHub stars](https://img.shields.io/github/stars/vaaaaanquish/Awesome-Rust-MachineLearning?style=social) |
-
 
 
 # Courses
