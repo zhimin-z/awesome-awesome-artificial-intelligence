@@ -25,6 +25,8 @@ Also, a listed repository should be excluded if:
 | [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | A curated list of awesome artificial intelligence courses, books, video lectures and papers. | ![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=social) |
 | [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | A curated list of awesome deep learning tutorials, projects, and communities. | ![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social) |
 | [Awesome Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) | A curated list of awesome recent papers regarding deep learning. | ![GitHub stars](https://img.shields.io/github/stars/endymecy/awesome-deeplearning-resources?style=social) |
+| [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | A curated list of awesome projects, tools, artworks, and models on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/filipecalegario/awesome-generative-ai?style=social) |
+| [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome machine learning frameworks, libraries, and software. | ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) |
 | [Awesome ML](https://github.com/underlines/awesome-ml) | A curated list of awesome resources on machine learning, analytics, and data science. | ![GitHub stars](https://img.shields.io/github/stars/underlines/awesome-ml?style=social) |
 | [Awesome Open Data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) | A curated list of awesome tools for data-centric AI on unstructured data. | ![GitHub stars](https://img.shields.io/github/stars/Renumics/awesome-open-data-centric-ai?style=social) |
@@ -194,6 +196,7 @@ Also, a listed repository should be excluded if:
 | [Awesome LLMs in China](https://github.com/wgwang/awesome-LLMs-In-China) | A curated list of awesome LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/wgwang/awesome-LLMs-In-China?style=social) |
 | [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference) | A curated list of awesome LLM inference papers with code. | ![GitHub stars](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social) |
 | [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) | A curated list of awesome pre-trained NLP models in Chinese. | ![GitHub stars](https://img.shields.io/github/stars/lonePatient/awesome-pretrained-chinese-nlp-models?style=social) |
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
 | [Awesome Question Answering](https://github.com/dapurv5/awesome-question-answering) | A curated list of awesome resources on question answering. | ![GitHub stars](https://img.shields.io/github/stars/dapurv5/awesome-question-answering?style=social) |
 | [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) | A curated list of awesome open alternatives to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social) |
 
@@ -236,15 +239,14 @@ Also, a listed repository should be excluded if:
 
 # Domain-specific
 
-## Generative AI
+## Agent
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI Agent](https://github.com/e2b-dev/awesome-ai-agents) | A curated list of awesome AI autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=social) |
-| [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) | A curated list of awesome projects, tools, artworks, and models on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/filipecalegario/awesome-generative-ai?style=social) |
-| [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | A curated list of awesome projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
+| [Awesome Embodied Agent with LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs) | A curated list of awesome embodied agents based on LLMs. | ![GitHub stars](https://img.shields.io/github/stars/zchoi/Awesome-Embodied-Agent-with-LLMs?style=social) |
 | [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent) | A curated list of awesome LLM-powered agents. | ![GitHub stars](https://img.shields.io/github/stars/hyp1231/awesome-llm-powered-agent?style=social) |
-| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | A curated list of awesome resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
+| [Awesome Papers Autonomous Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) | A curated list of awesome papers focusing on autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/lafmdp/Awesome-Papers-Autonomous-Agent?style=social) |
 
 ## Knowledge Graph
 
