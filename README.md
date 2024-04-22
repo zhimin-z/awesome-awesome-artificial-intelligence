@@ -270,7 +270,6 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-
 | [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | A curated list of awesome machine learning strategies and tools in the financial market. | ![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social) |
 | [Awesome Domain LLM](https://github.com/luban-agi/Awesome-Domain-LLM) | A curated list of awesome models, datasets, and evaluation benchmarks for various domains. | ![GitHub stars](https://img.shields.io/github/stars/luban-agi/Awesome-Domain-LLM?style=social) |
 | [Awesome Industrial Anomaly Detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) | A curated list of awesome papers and datasets for industrial anomaly detection. | ![GitHub stars](https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social) |
