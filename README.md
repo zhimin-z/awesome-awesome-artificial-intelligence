@@ -92,6 +92,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Graph Adversarial Learning](https://github.com/EdisonLeeeee/Graph-Adversarial-Learning) | A curated list of awesome resources for adversarial attack and defense on graph data. | ![GitHub stars](https://img.shields.io/github/stars/EdisonLeeeee/Graph-Adversarial-Learning?style=social) |
 | [Awesome Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature) | A curated list of awesome adversarial attacks and defenses papers on graph-structured data. | ![GitHub stars](https://img.shields.io/github/stars/safe-graph/graph-adversarial-learning-literature?style=social) |
+| [Awesome Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) | A curated list of awesome resources on class-imbalanced/long-tail learning. | ![GitHub stars](https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social) |
 
 ## System & Production
 
