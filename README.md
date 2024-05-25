@@ -35,7 +35,7 @@ Also, a listed repository should be excluded if:
 
 
 
-# Feature-specific
+# Compute-specific
 
 ## Alignment & Regulation
 
@@ -129,7 +129,7 @@ Also, a listed repository should be excluded if:
 
 
 
-# Application
+# Domain-specific
 
 ## Agent
 
