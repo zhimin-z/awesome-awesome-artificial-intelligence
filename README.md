@@ -290,6 +290,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome GAN](https://github.com/nightrome/really-awesome-gan) | A curated list of awesome resources for generative adversarial networks. | ![GitHub stars](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social) |
 | [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) | A curated list of awesome GAN resources in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/xinario/awesome-gan-for-medical-imaging?style=social) |
+| [Awesome KAN](https://github.com/mintisan/awesome-kan) | A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). | ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan?style=social) |
 
 ## Graph Neural Network
 
