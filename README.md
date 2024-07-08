@@ -258,6 +258,12 @@ Also, a listed repository should be excluded if:
 | [Awesome LLM for RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) | A curated list of awesome papers and resources for LLM-related recommender system topics. | ![GitHub stars](https://img.shields.io/github/stars/CHIANGEL/Awesome-LLM-for-RecSys?style=social) |
 | [Awesome LLM4Rec Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | A curated list of awesome deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/WLiK/LLM4Rec-Awesome-Papers?style=social) |
 
+## Remote Sensing
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Remote Sensing Foundation Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) | A curated list of papers, datasets, benchmarks, code, and pre-trained weights for remote sensing foundation models (RSFMs). | ![GitHub stars](https://img.shields.io/github/stars/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?style=social) |
+
 ## Robotics
 
 | Name | Description | Popularity |
