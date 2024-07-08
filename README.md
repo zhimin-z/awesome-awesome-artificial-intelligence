@@ -240,7 +240,7 @@ Also, a listed repository should be excluded if:
 | [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) | Demos and articles about the OpenAI GPT-3 API. | ![GitHub stars](https://img.shields.io/github/stars/elyase/awesome-gpt3?style=social) |
 | [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | Prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4?style=social) |
 | [Awesome Graph LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) | Resources for graph-related LLMs. | ![GitHub stars](https://img.shields.io/github/stars/XiaoxinHe/Awesome-Graph-LLM?style=social) |
-| [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) | Tools and projects with the awesome LangChain framework. | ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social) |
+| [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) | Tools and projects with the LangChain framework. | ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social) |
 | [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social) |
 | [Awesome LLMs Evaluation Papers](https://github.com/https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) | Evaluation papers for LLMs. | ![GitHub stars](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers?style=social) |
 | [Awesome LLMs in China](https://github.com/wgwang/awesome-LLMs-In-China) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/wgwang/awesome-LLMs-In-China?style=social) |
