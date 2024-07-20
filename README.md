@@ -1,6 +1,11 @@
 <div align="center">
     <h1>Awesome Awesome Artificial Intelligence</h1>
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge.svg"/>
+    </a>
+    <a href="https://github.com/zhimin-z/awesome-awesome-artificial-intelligence/fork">
+        <img src="https://img.shields.io/badge/PRs-Welcome-red" height="20"/>
+    </a>
 </div>
 
 **Awesome Awesome Artificial Intelligence** contains many awesome topics closely related to artificial intelligence.
