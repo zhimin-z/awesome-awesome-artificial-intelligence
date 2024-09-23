@@ -105,6 +105,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome LLM Systems Papers](https://github.com/AmberLJC/LLMSys-PaperList) | LLM-related academic papers, articles, tutorials, slides, and projects. | ![GitHub stars](https://img.shields.io/github/stars/AmberLJC/LLMSys-PaperList?style=social) |
 | [Awesome MLOps](https://github.com/visenger/awesome-mlops) | MLOps resources. | ![GitHub stars](https://img.shields.io/github/stars/visenger/awesome-mlops?style=social) |
 | [Awesome MLOps](https://github.com/kelvins/awesome-mlops) | MLOps tools. | ![GitHub stars](https://img.shields.io/github/stars/kelvins/awesome-mlops?style=social) |
 | [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | Libraries that will help you deploy, monitor, version, scale, and secure machine learning productionization. | ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) |
