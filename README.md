@@ -10,11 +10,11 @@
 
 **Awesome Awesome Artificial Intelligence** contains many awesome topics closely related to artificial intelligence.
 
-Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-awesome-artificial-intelligence-search) that helps you quickly navigate through the awesome lists.
+We also provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-awesome-artificial-intelligence-search) that helps you quickly navigate the awesome lists.
 
 _If you want to contribute to this list (please do), welcome to [propose a pull request](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence/fork)._
 
-_If you have any suggestions, critiques, or questions regarding this list, welcome to [raise an issue](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence/issues/new)._
+_If you have suggestions, critiques, or questions regarding this list, welcome to [raise an issue](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence/issues/new)._
 
 Also, a listed repository should be excluded if:
 
@@ -94,6 +94,8 @@ Also, a listed repository should be excluded if:
 | [Awesome Federated Learning Resources](https://github.com/youngfish42/Awesome-FL) | Papers, frameworks, and datasets of federated learning on graph and tabular data. | ![GitHub stars](https://img.shields.io/github/stars/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | Federated learning, including research papers, books, codes, tutorials, videos, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
 | [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents) | GPT agents for cybersecurity. | ![GitHub stars](https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents?style=social) |
+| [Awesome LLM Safety](https://github.com/ydyjya/Awesome-LLM-Safety) | Tools, documents, and projects about LLM Security. | ![GitHub stars](https://img.shields.io/github/stars/ydyjya/Awesome-LLM-Safety?style=social) |
+| [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) | Safety-related papers, articles, and resources focused on LLMs. | ![GitHub stars](https://img.shields.io/github/stars/corca-ai/awesome-llm-security?style=social) |
 
 ## Robustness
 
@@ -117,6 +119,29 @@ Also, a listed repository should be excluded if:
 
 # Learning Paradigm
 
+## Adversarial Learning
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome GAN](https://github.com/nightrome/really-awesome-gan) | Resources for generative adversarial networks. | ![GitHub stars](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social) |
+| [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) | GAN resources in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/xinario/awesome-gan-for-medical-imaging?style=social) |
+| [Awesome KAN](https://github.com/mintisan/awesome-kan) | Libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). | ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan?style=social) |
+
+## Graph Learning
+
+| Name | Description | Popularity |
+| ---- | ----------- | ---------- |
+| [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) | Graph classification methods, covering embedding, deep learning, graph kernel, and factorization papers with reference implementations. | ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-classification?style=social) |
+| [Awesome Graph LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) | Resources for graph-related LLMs. | ![GitHub stars](https://img.shields.io/github/stars/XiaoxinHe/Awesome-Graph-LLM?style=social) |
+| [Awesome Graph Neural Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks) | Resources related to graph neural networks. | ![GitHub stars](https://img.shields.io/github/stars/GRAND-Lab/Awesome-Graph-Neural-Networks?style=social) |
+| [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) | Self-supervised graph representation learning resources. | ![GitHub stars](https://img.shields.io/github/stars/LirongWu/awesome-graph-self-supervised-learning?style=social) |
+| [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph) | Tutorials, databases, tools, and other resources for knowledge graphs. | ![GitHub stars](https://img.shields.io/github/stars/totogo/awesome-knowledge-graph?style=social) |
+| [Awesome Knowledge Graph](https://github.com/BrambleXu/knowledge-graph-learning) | Tutorials, projects, and communities for knowledge graph. | ![GitHub stars](https://img.shields.io/github/stars/BrambleXu/knowledge-graph-learning?style=social) |
+| [Awesome Knowledge Graph Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) | Collections of knowledge graph reasoning works, including papers, codes, and datasets. | ![GitHub stars](https://img.shields.io/github/stars/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?style=social) |
+| [Awesome Language Model on Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) | Papers on leveraging LLLMs in graph tasks. | ![GitHub stars](https://img.shields.io/github/stars/PeterGriffinJin/Awesome-Language-Model-on-Graphs?style=social) |
+| [Awesome LLMs in Graph Tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) | Papers and resources about LLMs on graphs. | ![GitHub stars](https://img.shields.io/github/stars/yhLeeee/Awesome-LLMs-in-Graph-tasks?style=social) |
+| [Awesome Self-supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) | Papers on self-supervised learning on graph neural networks. | ![GitHub stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?style=social) |
+
 ## Reinforcement Learning
 
 | Name | Description | Popularity |
@@ -131,7 +156,6 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Contrastive Self-supervised Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning) | Research on contrastive self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/asheeshcric/awesome-contrastive-self-supervised-learning?style=social) |
-| [Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) | Self-supervised graph representation learning resources. | ![GitHub stars](https://img.shields.io/github/stars/LirongWu/awesome-graph-self-supervised-learning?style=social) |
 | [Awesome Instruction Tuning Dataset](https://github.com/yaodongC/awesome-instruction-dataset) | Datasets to train instruction-following LLMs. | ![GitHub stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social) |
 | [Awesome Learning with Noise Labels](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) | Resources for learning with noisy labels. | ![GitHub stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social) |
 | [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) | Resources on self-supervised learning. | ![GitHub stars](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning?style=social) |
@@ -176,6 +200,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Image Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization) | Papers, code, and resources of image harmonization. | ![GitHub stars](https://img.shields.io/github/stars/bcmi/Awesome-Image-Harmonization?style=social) |
 | [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) | Books, papers, videos, and toolboxes related to image registration. | ![GitHub stars](https://img.shields.io/github/stars/Awesome-Image-Registration-Organization/awesome-image-registration?style=social) |
 | [Awesome Image Translation](https://github.com/weihaox/awesome-image-translation) | Resources image-to-image translation. | ![GitHub stars](https://img.shields.io/github/stars/weihaox/awesome-image-translation?style=social) |
+| [Awesome LLMs for Video Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) | Papers, codes and datasets on Vid-LLMs. | ![GitHub stars](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding?style=social) |
 | [Awesome Neural Radiance Fields](https://github.com/awesome-NeRF/awesome-NeRF) | Resources related to neural radiance fields. | ![GitHub stars](https://img.shields.io/github/stars/awesome-NeRF/awesome-NeRF?style=social) |
 | [Awesome Open Set Recognition list](https://github.com/iCGY96/awesome_OpenSetRecognition_list) | Resources related to open set recognition, out-of-distribution, open set domain adaptation, and open world recognition. | ![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?style=social) |
 | [Awesome Person Re-identification](https://github.com/bismex/Awesome-person-re-identification) | Articles for person re-identification. | ![GitHub stars](https://img.shields.io/github/stars/bismex/Awesome-person-re-identification?style=social) |
@@ -196,9 +221,6 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph) | Tutorials, databases, tools, and other resources for knowledge graph. | ![GitHub stars](https://img.shields.io/github/stars/totogo/awesome-knowledge-graph?style=social) |
-| [Awesome Knowledge Graph](https://github.com/BrambleXu/knowledge-graph-learning) | Tutorials, projects, and communities for knowledge graph. | ![GitHub stars](https://img.shields.io/github/stars/BrambleXu/knowledge-graph-learning?style=social) |
-| [Awesome Knowledge Graph Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) | Collections of knowledge graph reasoning works, including papers, codes, and datasets. | ![GitHub stars](https://img.shields.io/github/stars/LIANGKE23/Awesome-Knowledge-Graph-Reasoning?style=social) |
 | [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) | Collections of vector search-related libraries, services, and research papers. | ![GitHub stars](https://img.shields.io/github/stars/currentslab/awesome-vector-search?style=social) |
 
 ## Mathematics
@@ -250,10 +272,10 @@ Also, a listed repository should be excluded if:
 | [Awesome GPTs Prompts](https://github.com/ai-boost/awesome-prompts) | Prompts from the top-rated GPTs in the GPTs Store. | ![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-prompts?style=social) |
 | [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) | Demos and articles about the OpenAI GPT-3 API. | ![GitHub stars](https://img.shields.io/github/stars/elyase/awesome-gpt3?style=social) |
 | [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | Prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4?style=social) |
-| [Awesome Graph LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) | Resources for graph-related LLMs. | ![GitHub stars](https://img.shields.io/github/stars/XiaoxinHe/Awesome-Graph-LLM?style=social) |
 | [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) | Tools and projects with the LangChain framework. | ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social) |
 | [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social) |
-| [Awesome LLMs Evaluation Papers](https://github.com/https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) | Evaluation papers for LLMs. | ![GitHub stars](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers?style=social) |
+| [Awesome LLMs Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) | Representative LLMs text datasets. | ![GitHub stars](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets?style=social) |
+| [Awesome LLMs Evaluation Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) | Evaluation papers for LLMs. | ![GitHub stars](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers?style=social) |
 | [Awesome LLMs in China](https://github.com/wgwang/awesome-LLMs-In-China) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/wgwang/awesome-LLMs-In-China?style=social) |
 | [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | LLM apps built with Retrieval Augmented Generation (RAG) and AI agents. | ![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social) |
 | [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference) | LLM inference papers with code. | ![GitHub stars](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social) |
@@ -262,6 +284,7 @@ Also, a listed repository should be excluded if:
 | [Awesome LLM Long Context Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) | Must-read papers and blogs on LLM-based long context modeling. | ![GitHub stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=social) |
 | [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) | Advanced papers of RAG in LLMs. | ![GitHub stars](https://img.shields.io/github/stars/jxzhangjhu/Awesome-LLM-RAG?style=social) |
 | [Awesome LLM RAG Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) | Application resources based on LLM with RAG pattern. | ![GitHub stars](https://img.shields.io/github/stars/lizhe2004/Awesome-LLM-RAG-Application?style=social) |
+| [Awesome LLM Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) | Papers and resources on unlocking the reasoning ability of LLMs and MLLMs. | ![GitHub stars](https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?style=social) |
 | [Awesome LLM Resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) | Summary of the world's best LLM resources. | ![GitHub stars](https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resourses?style=social) |
 | [Awesome LLM Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) | Research papers & blogs for OpenAI Strawberry(o1) and Reasoning. | ![GitHub stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry?style=social) |
 | [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) | Pre-trained NLP models in Chinese. | ![GitHub stars](https://img.shields.io/github/stars/lonePatient/awesome-pretrained-chinese-nlp-models?style=social) |
@@ -275,7 +298,8 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Deep Learning Papers for Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | Deep learning papers for industrial search, recommendation, and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising?style=social) |
 | [Awesome LLM for RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) | Papers and resources for LLM-related recommender system topics. | ![GitHub stars](https://img.shields.io/github/stars/CHIANGEL/Awesome-LLM-for-RecSys?style=social) |
-| [Awesome LLM4Rec Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | Deep learning papers for industrial search, recommendation and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/WLiK/LLM4Rec-Awesome-Papers?style=social) |
+| [Awesome LLM4Rec Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | Deep learning papers for industrial search, recommendation, and advertisement. | ![GitHub stars](https://img.shields.io/github/stars/WLiK/LLM4Rec-Awesome-Papers?style=social) |
+| [Awesome LLM4RS Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) | LLM-enhanced recommender system. | ![GitHub stars](https://img.shields.io/github/stars/nancheng58/Awesome-LLM4RS-Papers?style=social) |
 
 ## Remote Sensing
 
@@ -308,24 +332,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | Tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
 
 
-
-# Network Architecture
-
-## Generative Adversarial Network
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome GAN](https://github.com/nightrome/really-awesome-gan) | Resources for generative adversarial networks. | ![GitHub stars](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social) |
-| [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) | GAN resources in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/xinario/awesome-gan-for-medical-imaging?style=social) |
-| [Awesome KAN](https://github.com/mintisan/awesome-kan) | Libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). | ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan?style=social) |
-
-## Graph Neural Network
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) | Graph classification methods, covering embedding, deep learning, graph kernel, and factorization papers with reference implementations. | ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-classification?style=social) |
-| [Awesome Graph Neural Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks) | Resources related to graph neural networks. | ![GitHub stars](https://img.shields.io/github/stars/GRAND-Lab/Awesome-Graph-Neural-Networks?style=social) |
-| [Awesome Self-supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) | Papers on self-supervised learning on graph neural networks. | ![GitHub stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?style=social) |
 
 ## Transformer
 
