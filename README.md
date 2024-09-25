@@ -82,6 +82,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) | Research materials on explainable AI. | ![GitHub stars](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?style=social) |
 | [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | Research papers and software related to explainability in graph machine learning. | ![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=social) |
+| [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability) | LLM Interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability?style=social) |
 | [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | Machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
 
 ## Privacy & Security
@@ -92,6 +93,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | Resources related to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
 | [Awesome Federated Learning Resources](https://github.com/youngfish42/Awesome-FL) | Papers, frameworks, and datasets of federated learning on graph and tabular data. | ![GitHub stars](https://img.shields.io/github/stars/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | Federated learning, including research papers, books, codes, tutorials, videos, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
+| [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents) | GPT agents for cybersecurity. | ![GitHub stars](https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents?style=social) |
 
 ## Robustness
 
@@ -255,6 +257,7 @@ Also, a listed repository should be excluded if:
 | [Awesome LLMs in China](https://github.com/wgwang/awesome-LLMs-In-China) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/wgwang/awesome-LLMs-In-China?style=social) |
 | [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | LLM apps built with Retrieval Augmented Generation (RAG) and AI agents. | ![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social) |
 | [Awesome LLM Inference](https://github.com/DefTruth/Awesome-LLM-Inference) | LLM inference papers with code. | ![GitHub stars](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference?style=social) |
+| [Awesome LLM JSON List](https://github.com/imaurer/awesome-llm-json) | Resources for using LLMs to generate JSON or other structured outputs. | ![GitHub stars](https://img.shields.io/github/stars/imaurer/awesome-llm-json?style=social) |
 | [Awesome LLM KG](https://github.com/RManLuo/Awesome-LLM-KG) | Papers about unifying LLMs and KGs. | ![GitHub stars](https://img.shields.io/github/stars/RManLuo/Awesome-LLM-KG?style=social) |
 | [Awesome LLM Long Context Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) | Must-read papers and blogs on LLM-based long context modeling. | ![GitHub stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=social) |
 | [Awesome LLM RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) | Advanced papers of RAG in LLMs. | ![GitHub stars](https://img.shields.io/github/stars/jxzhangjhu/Awesome-LLM-RAG?style=social) |
