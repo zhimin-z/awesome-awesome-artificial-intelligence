@@ -109,6 +109,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social) |
 | [Awesome LLM Systems Papers](https://github.com/AmberLJC/LLMSys-PaperList) | LLM-related academic papers, articles, tutorials, slides, and projects. | ![GitHub stars](https://img.shields.io/github/stars/AmberLJC/LLMSys-PaperList?style=social) |
 | [Awesome MLOps](https://github.com/visenger/awesome-mlops) | MLOps resources. | ![GitHub stars](https://img.shields.io/github/stars/visenger/awesome-mlops?style=social) |
 | [Awesome MLOps](https://github.com/kelvins/awesome-mlops) | MLOps tools. | ![GitHub stars](https://img.shields.io/github/stars/kelvins/awesome-mlops?style=social) |
@@ -273,7 +274,7 @@ Also, a listed repository should be excluded if:
 | [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) | Demos and articles about the OpenAI GPT-3 API. | ![GitHub stars](https://img.shields.io/github/stars/elyase/awesome-gpt3?style=social) |
 | [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | Prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4?style=social) |
 | [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) | Tools and projects with the LangChain framework. | ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social) |
-| [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social) |
+| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Large language models. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) |
 | [Awesome LLMs Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) | Representative LLMs text datasets. | ![GitHub stars](https://img.shields.io/github/stars/lmmlzn/Awesome-LLMs-Datasets?style=social) |
 | [Awesome LLMs Evaluation Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) | Evaluation papers for LLMs. | ![GitHub stars](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers?style=social) |
 | [Awesome LLMs in China](https://github.com/wgwang/awesome-LLMs-In-China) | LLMOps tools for developers. | ![GitHub stars](https://img.shields.io/github/stars/wgwang/awesome-LLMs-In-China?style=social) |
