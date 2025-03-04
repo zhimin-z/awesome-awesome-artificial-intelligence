@@ -85,7 +85,7 @@ Also, a listed repository should be excluded if:
 | [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability) | LLM Interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/JShollaj/awesome-llm-interpretability?style=social) |
 | [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) | Machine learning interpretability resources. | ![GitHub stars](https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability?style=social) |
 
-## Privacy & Security
+## Privacy & Safety
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
@@ -93,6 +93,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | Resources related to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
 | [Awesome Federated Learning Resources](https://github.com/youngfish42/Awesome-FL) | Papers, frameworks, and datasets of federated learning on graph and tabular data. | ![GitHub stars](https://img.shields.io/github/stars/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | Federated learning, including research papers, books, codes, tutorials, videos, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
+| [Awesome Jailbreak on LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) | Jailbreak methods on LLMs, including papers, codes, datasets, evaluations, and analyses. | ![GitHub stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Jailbreak-on-LLMs?style=social) |
 | [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents) | GPT agents for cybersecurity. | ![GitHub stars](https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents?style=social) |
 | [Awesome LLM Safety](https://github.com/ydyjya/Awesome-LLM-Safety) | Tools, documents, and projects about LLM Security. | ![GitHub stars](https://img.shields.io/github/stars/ydyjya/Awesome-LLM-Safety?style=social) |
 | [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) | Safety-related papers, articles, and resources focused on LLMs. | ![GitHub stars](https://img.shields.io/github/stars/corca-ai/awesome-llm-security?style=social) |
