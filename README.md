@@ -173,6 +173,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome AI Agent](https://github.com/e2b-dev/awesome-ai-agents) | AI autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=social) |
 | [Awesome Embodied Agent with LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs) | Embodied agents based on LLMs. | ![GitHub stars](https://img.shields.io/github/stars/zchoi/Awesome-Embodied-Agent-with-LLMs?style=social) |
+| [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | Model Context Protocol (MCP) servers. | ![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social) |
 | [Awesome Mixture-of-Experts Papers](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers) | Resources about mixture-of-experts (MoE) papers. | ![GitHub stars](https://img.shields.io/github/stars/codecaution/Awesome-Mixture-of-Experts-Papers?style=social) |
 | [Awesome Mixture-of-Experts](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers) | Resources about MoE. | ![GitHub stars](https://img.shields.io/github/stars/codecaution/Awesome-Mixture-of-Experts-Papers?style=social) |
 | [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent) | LLM-powered agents. | ![GitHub stars](https://img.shields.io/github/stars/hyp1231/awesome-llm-powered-agent?style=social) |
