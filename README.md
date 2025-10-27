@@ -189,6 +189,7 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
+| [Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM) | Resources regarding Audio Large Language Models |
 | [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | Resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
 | [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) | Resources for Whisper. | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social) |
 
