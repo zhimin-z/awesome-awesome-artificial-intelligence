@@ -178,6 +178,7 @@ Also, a listed repository should be excluded if:
 | [Awesome Mixture-of-Experts](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers) | Resources about MoE. | ![GitHub stars](https://img.shields.io/github/stars/codecaution/Awesome-Mixture-of-Experts-Papers?style=social) |
 | [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent) | LLM-powered agents. | ![GitHub stars](https://img.shields.io/github/stars/hyp1231/awesome-llm-powered-agent?style=social) |
 | [Awesome Papers Autonomous Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) | Papers focusing on autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/lafmdp/Awesome-Papers-Autonomous-Agent?style=social) |
+| [Awesome Self Evolving Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) | Resources about self-evolving agents. | ![GitHub stars](https://img.shields.io/github/stars/EvoAgentX/Awesome-Self-Evolving-Agents?style=social) |
 
 ## Anomaly Detection
 
