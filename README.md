@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zhimin-z-awesome-awesome-artificial-intelligence-badge.png)](https://mseep.ai/app/zhimin-z-awesome-awesome-artificial-intelligence)
+
 <div align="center">
     <h1>Awesome Awesome Artificial Intelligence</h1>
     <a href="https://awesome.re">
