@@ -70,12 +70,6 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) | Neural network pruning resources. | ![GitHub stars](https://img.shields.io/github/stars/he-y/Awesome-Pruning?style=social) |
 
-## Efficiency & Performance
-
-| Name | Description | Popularity |
-| ---- | ----------- | ---------- |
-| [Awesome EMDL](https://github.com/csarron/awesome-emdl) | Deep learning research resources on embedded and mobile. | ![GitHub stars](https://img.shields.io/github/stars/csarron/awesome-emdl?style=social) |
-
 ## Explainability & Interpretability
 
 | Name | Description | Popularity |
