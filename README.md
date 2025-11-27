@@ -173,7 +173,6 @@ Also, a listed repository should be excluded if:
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
-| [Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM) | Resources regarding Audio Large Language Models |
 | [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) | Resources regarding speech recognition and speech synthesis. | ![GitHub stars](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers?style=social) |
 | [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper) | Resources for Whisper. | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=social) |
 
@@ -185,7 +184,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models) | Resources for diffusion models. | ![GitHub stars](https://img.shields.io/github/stars/diff-usion/Awesome-Diffusion-Models?style=social) |
 | [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) | Image classification papers and codes in deep learning. | ![GitHub stars](https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification?style=social) |
 | [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | Deep learning-based image colorization and video colorization papers. | ![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Image-Colorization?style=social) |
-| [Awesome Image Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization) | Papers, code, and resources of image harmonization. | ![GitHub stars](https://img.shields.io/github/stars/bcmi/Awesome-Image-Harmonization?style=social) |
 | [Awesome Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) | Books, papers, videos, and toolboxes related to image registration. | ![GitHub stars](https://img.shields.io/github/stars/Awesome-Image-Registration-Organization/awesome-image-registration?style=social) |
 | [Awesome Image Translation](https://github.com/weihaox/awesome-image-translation) | Resources image-to-image translation. | ![GitHub stars](https://img.shields.io/github/stars/weihaox/awesome-image-translation?style=social) |
 | [Awesome LLMs for Video Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) | Papers, codes and datasets on Vid-LLMs. | ![GitHub stars](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding?style=social) |
