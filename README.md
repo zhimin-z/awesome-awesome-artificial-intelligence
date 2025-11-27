@@ -83,7 +83,6 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) | Blockchain projects for artificial intelligence and machine learning. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=social) |
-| [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning) | Resources related to federated learning and privacy in machine learning. | ![GitHub stars](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social) |
 | [Awesome Federated Learning Resources](https://github.com/youngfish42/Awesome-FL) | Papers, frameworks, and datasets of federated learning on graph and tabular data. | ![GitHub stars](https://img.shields.io/github/stars/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data?style=social) |
 | [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) | Federated learning, including research papers, books, codes, tutorials, videos, and beyond. | ![GitHub stars](https://img.shields.io/github/stars/innovation-cat/Awesome-Federated-Machine-Learning?style=social) |
 | [Awesome Jailbreak on LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) | Jailbreak methods on LLMs, including papers, codes, datasets, evaluations, and analyses. | ![GitHub stars](https://img.shields.io/github/stars/yueliu1999/Awesome-Jailbreak-on-LLMs?style=social) |
