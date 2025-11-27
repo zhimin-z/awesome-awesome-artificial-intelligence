@@ -269,6 +269,7 @@ Also, a listed repository should be excluded if:
 | [Awesome LLM Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) | Research papers & blogs for OpenAI Strawberry(o1) and Reasoning. | ![GitHub stars](https://img.shields.io/github/stars/hijkzzz/Awesome-LLM-Strawberry?style=social) |
 | [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) | Pre-trained NLP models in Chinese. | ![GitHub stars](https://img.shields.io/github/stars/lonePatient/awesome-pretrained-chinese-nlp-models?style=social) |
 | [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | Resources for prompt engineering. | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) |
+| [Awesome System2 Reasoning LLM](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) | Survey of reasoning large language models. | ![GitHub stars](https://img.shields.io/github/stars/zzli2022/Awesome-System2-Reasoning-LLM?style=social) |
 | [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) | Open alternatives to ChatGPT. | ![GitHub stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social) |
 
 ## Recommendation System
