@@ -329,13 +329,15 @@ Also, a listed repository should be excluded if:
 
 
 
-# Courses
+# Guideline & Tutorial
 
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AIGC Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) | Tutorials and resources for large language models, AI painting, and more. | ![GitHub stars](https://img.shields.io/github/stars/luban-agi/awesome-aigc-tutorials?style=social) |
-| [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) | Free machine learning and AI courses with video lectures. | ![GitHub stars](https://img.shields.io/github/stars/luspr/awesome-ml-courses?style=social) |
+| [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | Free machine learning and AI courses with video lectures. | ![GitHub stars](https://img.shields.io/github/stars/aishwaryanr/awesome-generative-ai-guide?style=social) |
+| [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) | Generative AI research updates, interview resources, notebooks and more | ![GitHub stars](https://img.shields.io/github/stars/luspr/awesome-ml-courses?style=social) |
 | [Awesome Summer School in Machine Learning](https://github.com/sshkhr/awesome-mlss) | Summer schools in machine learning + related fields across the globe. | ![GitHub stars](https://img.shields.io/github/stars/sshkhr/awesome-mlss?style=social) |
+
 # Career
 
 | Name | Description | Popularity |
