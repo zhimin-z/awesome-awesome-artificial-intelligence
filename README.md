@@ -36,7 +36,6 @@ Also, a listed repository should be excluded if:
 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | Projects and services on generative AI. | ![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social) |
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | Machine learning frameworks, libraries, and software. | ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) |
 | [Awesome ML](https://github.com/underlines/awesome-ml) | Resources on machine learning, analytics, and data science. | ![GitHub stars](https://img.shields.io/github/stars/underlines/awesome-ml?style=social) |
-| [Awesome Open Data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) | Tools for data-centric AI on unstructured data. | ![GitHub stars](https://img.shields.io/github/stars/Renumics/awesome-open-data-centric-ai?style=social) |
 | [Awesome Project Ideas](https://github.com/NirantK/awesome-project-ideas) | Practical deep learning and machine learning project ideas. | ![GitHub stars](https://img.shields.io/github/stars/NirantK/awesome-project-ideas?style=social) |
 | [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) | Machine learning libraries written in Rust. | ![GitHub stars](https://img.shields.io/github/stars/vaaaaanquish/Awesome-Rust-MachineLearning?style=social) |
 
