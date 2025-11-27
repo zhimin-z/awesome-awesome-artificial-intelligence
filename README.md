@@ -343,3 +343,4 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI Residency](https://github.com/dangkhoasdc/awesome-ai-residency) | AI residency programs. | ![GitHub stars](https://img.shields.io/github/stars/dangkhoasdc/awesome-ai-residency?style=social) |
+| [Awesome Generative AI Data Scientist](https://github.com/business-science/awesome-generative-ai-data-scientist) | Resources for building and deploying generative AI for data scientists. | ![GitHub stars](https://img.shields.io/github/stars/business-science/awesome-generative-ai-data-scientist?style=social) |
