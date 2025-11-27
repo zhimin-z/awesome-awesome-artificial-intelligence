@@ -18,7 +18,7 @@ _If you have suggestions, critiques, or questions regarding this list, welcome t
 
 Also, a listed repository should be excluded if:
 
-* It is not popular enough (< 500 stars).
+* It is not popular enough (< 1k stars).
 * It is not actively maintained (> 12 months).
 
 **Notice:** Thanks to the static nature of the markdown format, we do not intend to assign multiple categories to any single entry.
@@ -327,7 +327,6 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Time Series](https://github.com/cuge1995/awesome-time-series) | Papers, code, and other resources for time series forecasting. | ![GitHub stars](https://img.shields.io/github/stars/cuge1995/awesome-time-series?style=social) |
-| [Awesome Time Series](https://github.com/lmmentel/awesome-time-series) | Resources for time series forecasting. | ![GitHub stars](https://img.shields.io/github/stars/lmmentel/awesome-time-series?style=social) |
 | [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) | Tools and datasets for anomaly detection on time-series data. | ![GitHub stars](https://img.shields.io/github/stars/rob-med/awesome-TS-anomaly-detection?style=social) |
 
 
@@ -337,7 +336,6 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) | Papers for detection and segmentation with Transformer. | ![GitHub stars](https://img.shields.io/github/stars/IDEA-Research/awesome-detection-transformer?style=social) |
-| [Awesome Transformers](https://github.com/abacaj/awesome-transformers) | Transformer models. | ![GitHub stars](https://img.shields.io/github/stars/abacaj/awesome-transformers?style=social) |
 | [Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | Vision Transformers and attention, including papers, codes, and related websites. | ![GitHub stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social) |
 | [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) | Resources on applications of Transformer in medical imaging. | ![GitHub stars](https://img.shields.io/github/stars/fahadshamshad/awesome-transformers-in-medical-imaging?style=social) |
 | [Awesome Transformer NLP](https://github.com/cedrickchee/awesome-transformer-nlp) | NLP resources focused on the Transformer, attention mechanism, etc.. | ![GitHub stars](https://img.shields.io/github/stars/cedrickchee/awesome-transformer-nlp?style=social) |
