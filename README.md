@@ -23,6 +23,43 @@ Also, a listed repository should be excluded if:
 
 **Notice:** Thanks to the static nature of the markdown format, we do not intend to assign multiple categories to any single entry.
 
+## Table of Contents
+- [**General**](#general)
+- [**Compute-specific**](#compute-specific)
+    - [Alignment & Regulation](#alignment--regulation)
+    - [AutoML](#automl)
+    - [Compilation](#compilation)
+    - [Compression](#compression)
+    - [Explainability & Interpretability](#explainability--interpretability)
+    - [Privacy & Safety](#privacy--safety)
+    - [Robustness](#robustness)
+    - [System & Production](#system--production)
+- [**Learning Paradigm**](#learning-paradigm)
+    - [Adversarial Learning](#adversarial-learning)
+    - [Graph Learning](#graph-learning)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Supervised Learning](#supervised-learning)
+- [**Domain-specific**](#domain-specific)
+    - [Agent](#agent)
+    - [Anomaly Detection](#anomaly-detection)
+    - [Audio Processing](#audio-processing)
+    - [Computer Vision](#computer-vision)
+    - [Finance](#finance)
+    - [Knowledge Engineering](#knowledge-engineering)
+    - [Mathematics](#mathematics)
+    - [Miscellaneous](#miscellaneous)
+    - [Multi-modal learning](#multi-modal-learning)
+    - [Natural Language Processing](#natural-language-processing)
+    - [Recommendation System](#recommendation-system)
+    - [Remote Sensing](#remote-sensing)
+    - [Robotics](#robotics)
+    - [Software Engineering](#software-engineering)
+    - [Time Series](#time-series)
+    - [Transformer](#transformer)
+    - [Miscellaneous](#miscellaneous-1)
+- [**Guideline & Tutorial**](#guideline--tutorial)
+- [**Career**](#career)
+
 # General
 
 | Name | Description | Popularity |
