@@ -21,7 +21,7 @@ Also, a listed repository should be excluded if:
 * It is not popular enough (< 1k stars).
 * It is not actively maintained (> 12 months).
 
-**Notice:** Thanks to the static nature of the markdown format, we do not intend to assign multiple categories to any single entry.
+**Notice:** Thanks to the static nature of the markdown format, we do not intend to assign multiple categories to any single list.
 
 ## Table of Contents
 - [**General**](#general)
