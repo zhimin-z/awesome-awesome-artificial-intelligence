@@ -194,7 +194,9 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI Agent](https://github.com/e2b-dev/awesome-ai-agents) | AI autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=social) |
+| [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) | Skills, prompts, and workflows for Claude AI. | ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=social) |
 | [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) | Skills, prompts, and workflows for Claude AI. | ![GitHub stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=social) |
+| [Awesome Claude Skills](https://github.com/VoltAgent/awesome-claude-skills) | Skills, prompts, and workflows for Claude AI. | ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-skills?style=social) |
 | [Awesome Embodied Agent with LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs) | Embodied agents based on LLMs. | ![GitHub stars](https://img.shields.io/github/stars/zchoi/Awesome-Embodied-Agent-with-LLMs?style=social) |
 | [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) | Model Context Protocol (MCP) clients. | ![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-clients?style=social) |
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | MCP servers. | ![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social) |
