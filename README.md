@@ -194,6 +194,7 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI Agent](https://github.com/e2b-dev/awesome-ai-agents) | AI autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents.svg?cacheSeconds=86400) |
+| [Awesome Agent Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) | Research papers on AI agents. | ![GitHub stars](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers.svg?cacheSeconds=86400) |
 | [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) | Skills, prompts, and workflows for Claude AI. | ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills.svg?cacheSeconds=86400) |
 | [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) | Skills, prompts, and workflows for Claude AI. | ![GitHub stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills.svg?cacheSeconds=86400) |
 | [Awesome Claude Skills](https://github.com/VoltAgent/awesome-claude-skills) | Skills, prompts, and workflows for Claude AI. | ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-skills.svg?cacheSeconds=86400) |
