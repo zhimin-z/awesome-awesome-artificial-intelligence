@@ -10,8 +10,6 @@
 
 **Awesome Awesome Artificial Intelligence** contains many awesome topics closely related to artificial intelligence.
 
-We also provide a [search toolkit](https://huggingface.co/spaces/zhiminy/awesome-awesome-artificial-intelligence-search) that helps you quickly navigate the awesome lists.
-
 _If you want to contribute to this list (please do), welcome to [propose a pull request](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence/fork)._
 
 _If you have suggestions, critiques, or questions regarding this list, welcome to [raise an issue](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence/issues/new)._
