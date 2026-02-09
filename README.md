@@ -175,6 +175,7 @@ Also, a listed repository should be excluded if:
 | ---- | ----------- | ---------- |
 | [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl) | Research for offline reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/hanjuku-kaso/awesome-offline-rl.svg?cacheSeconds=86400) |
 | [Awesome RL](https://github.com/aikorea/awesome-rl) | Resources dedicated to reinforcement learning. | ![GitHub stars](https://img.shields.io/github/stars/aikorea/awesome-rl.svg?cacheSeconds=86400) |
+| [Awesome RL for Cybersecurity](https://github.com/Kim-Hammar/awesome-rl-for-cybersecurity) | Reinforcement learning for cybersecurity. | ![GitHub stars](https://img.shields.io/github/stars/Kim-Hammar/awesome-rl-for-cybersecurity.svg?cacheSeconds=86400) |
 
 ## Supervised Learning
 
