@@ -197,6 +197,7 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome AI Agent](https://github.com/e2b-dev/awesome-ai-agents) | AI autonomous agents. | ![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents.svg?cacheSeconds=86400) |
+| [Awesome AI Agents](https://github.com/jim-schwoebel/awesome_ai_agents) | A curated collection of AI agent tools, resources, and projects. | ![GitHub stars](https://img.shields.io/github/stars/jim-schwoebel/awesome_ai_agents.svg?cacheSeconds=86400) |
 | [Awesome Agent Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) | Research papers on AI agents. | ![GitHub stars](https://img.shields.io/github/stars/luo-junyu/Awesome-Agent-Papers.svg?cacheSeconds=86400) |
 | [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) | Skills, tools, and capabilities for AI coding agents. | ![GitHub stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills.svg?cacheSeconds=86400) |
 | [Awesome Agentic Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) | Agentic reasoning for large language models. | ![GitHub stars](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning.svg?cacheSeconds=86400) |
