@@ -348,6 +348,7 @@ Also, a listed repository should be excluded if:
 | Name | Description | Popularity |
 | ---- | ----------- | ---------- |
 | [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | Resources using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites. | ![GitHub stars](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics.svg?cacheSeconds=172800) |
+| [Awesome Humanoid Robot Learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) | Resources for humanoid robot learning, including papers and related projects. | ![GitHub stars](https://img.shields.io/github/stars/YanjieZe/awesome-humanoid-robot-learning.svg?cacheSeconds=172800) |
 | [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) | Books, courses, and other resources for robotics. | ![GitHub stars](https://img.shields.io/github/stars/kiloreux/awesome-robotics.svg?cacheSeconds=172800) |
 | [Awesome Robotics Foundation Models](https://github.com/endymecy/awesome-deeplearning-resources) | Resources regarding robotics-specific foundation models. | ![GitHub stars](https://img.shields.io/github/stars/endymecy/awesome-deeplearning-resources.svg?cacheSeconds=172800) |
 | [Awesome Robotics Project](https://github.com/mjyc/awesome-robotics-projects) | Open-source, affordable, less-known, or visionary robotics projects, and robotics tooling companies. | ![GitHub stars](https://img.shields.io/github/stars/mjyc/awesome-robotics-projects.svg?cacheSeconds=172800) |
