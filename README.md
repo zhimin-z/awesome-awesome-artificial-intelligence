@@ -307,7 +307,6 @@ Also, a listed repository should be excluded if:
 | [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) | GPTs on the OpenAI platform. | ![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-gpts.svg?cacheSeconds=172800) |
 | [Awesome GPTs](https://github.com/taranjeet/awesome-gpts) | GPTs created by the community. | ![GitHub stars](https://img.shields.io/github/stars/taranjeet/awesome-gpts.svg?cacheSeconds=172800) |
 | [Awesome GPTs Prompts](https://github.com/ai-boost/awesome-prompts) | Prompts from the top-rated GPTs in the GPTs Store. | ![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-prompts.svg?cacheSeconds=172800) |
-| [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) | Demos and articles about the OpenAI GPT-3 API. | ![GitHub stars](https://img.shields.io/github/stars/elyase/awesome-gpt3.svg?cacheSeconds=172800) |
 | [Awesome GPT-4](https://github.com/radi-cho/awesome-gpt4) | Prompts, tools, and resources regarding the GPT-4 language model. | ![GitHub stars](https://img.shields.io/github/stars/radi-cho/awesome-gpt4.svg?cacheSeconds=172800) |
 | [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) | Tools and projects with the LangChain framework. | ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain.svg?cacheSeconds=172800) |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Large language models. | ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM.svg?cacheSeconds=172800) |
